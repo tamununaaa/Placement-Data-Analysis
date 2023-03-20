@@ -1,0 +1,2967 @@
+Age,Gender,HSC_P,SSC_P,Stream,Internships,CGPA,HistoryOfBacklogs,Placed
+22,Male,81,77,Electronics And Communication,1,8,1,1
+21,Female,80,69,Computer Science,0,7,1,1
+22,Female,84,83,Information Technology,1,6,0,1
+21,Male,91,88,Information Technology,0,8,1,1
+22,Male,84,69,Mechanical,0,8,0,1
+22,Male,86,73,Electronics And Communication,0,6,0,0
+21,Male,89,66,Computer Science,0,7,1,0
+21,Male,70,79,Information Technology,1,7,0,0
+21,Male,71,70,Computer Science,2,6,0,1
+21,Female,90,79,Computer Science,1,6,0,0
+22,Male,89,70,Computer Science,1,7,0,0
+22,Female,74,89,Electrical,1,8,1,1
+21,Female,73,80,Computer Science,2,6,1,0
+21,Male,74,73,Computer Science,1,8,1,1
+21,Female,86,88,Electronics And Communication,2,8,0,1
+22,Male,96,87,Mechanical,0,8,0,1
+22,Female,91,77,Computer Science,1,7,0,0
+21,Male,80,77,Civil,0,6,0,0
+21,Male,86,94,Computer Science,1,7,0,0
+22,Male,81,69,Computer Science,1,7,0,0
+22,Male,86,92,Civil,0,8,0,1
+21,Male,91,88,Computer Science,1,6,0,0
+22,Male,88,90,Civil,0,7,0,0
+22,Male,84,66,Electronics And Communication,1,7,1,0
+22,Male,91,83,Electronics And Communication,0,7,0,0
+21,Male,70,91,Electrical,0,8,0,1
+22,Male,83,69,Electrical,1,8,0,1
+22,Male,84,74,Information Technology,1,8,0,1
+22,Male,73,77,Information Technology,1,8,0,1
+21,Male,72,85,Information Technology,0,6,0,1
+22,Male,77,85,Mechanical,1,8,0,1
+21,Male,96,75,Electrical,1,7,0,1
+21,Female,72,70,Civil,1,7,0,0
+21,Male,78,66,Electrical,0,7,0,0
+21,Male,73,87,Computer Science,1,6,0,1
+21,Male,74,77,Information Technology,1,6,0,0
+22,Male,72,92,Civil,0,7,0,1
+22,Male,75,76,Computer Science,1,8,0,1
+22,Male,94,67,Information Technology,1,6,0,0
+22,Male,80,74,Electronics And Communication,0,8,1,1
+22,Male,75,72,Electrical,1,6,1,0
+22,Male,96,79,Civil,0,8,0,1
+21,Male,70,88,Electrical,1,7,1,1
+21,Male,75,70,Electrical,1,7,0,1
+22,Female,76,68,Information Technology,2,8,0,1
+21,Female,92,74,Electronics And Communication,3,6,0,1
+22,Male,75,91,Computer Science,1,8,0,1
+21,Male,73,89,Electronics And Communication,1,7,1,1
+21,Male,80,84,Information Technology,2,7,0,1
+21,Female,93,69,Electronics And Communication,0,7,0,0
+22,Male,77,73,Electronics And Communication,0,8,0,1
+21,Male,84,77,Electrical,1,8,0,1
+21,Female,78,77,Computer Science,1,8,0,1
+21,Male,83,79,Electrical,3,6,1,0
+21,Female,94,85,Electronics And Communication,3,6,0,1
+21,Male,85,92,Computer Science,1,7,0,1
+21,Male,93,86,Electronics And Communication,0,8,0,1
+21,Male,86,90,Civil,0,8,0,1
+21,Male,80,76,Electronics And Communication,0,8,0,1
+21,Female,86,73,Electrical,1,8,0,1
+21,Male,83,68,Computer Science,2,9,1,1
+22,Male,88,78,Computer Science,0,8,0,1
+21,Male,93,76,Information Technology,0,8,0,1
+21,Male,84,74,Information Technology,0,9,0,1
+21,Male,73,83,Information Technology,1,8,0,1
+22,Male,91,74,Mechanical,0,9,0,1
+22,Male,79,89,Computer Science,1,9,0,1
+21,Male,89,69,Information Technology,0,8,0,1
+22,Male,89,92,Computer Science,2,9,0,1
+21,Male,75,66,Mechanical,0,8,1,1
+22,Male,73,80,Electrical,1,8,0,1
+22,Male,71,93,Information Technology,0,9,0,1
+22,Male,75,72,Computer Science,3,9,0,1
+21,Male,73,90,Information Technology,0,8,0,1
+22,Male,84,85,Information Technology,1,9,0,1
+21,Male,87,80,Civil,0,8,0,1
+21,Male,79,87,Mechanical,0,9,0,1
+22,Male,70,68,Mechanical,0,8,1,1
+22,Male,88,72,Information Technology,0,8,0,1
+21,Male,77,91,Computer Science,1,8,0,1
+21,Male,86,71,Civil,0,9,0,1
+21,Male,82,70,Computer Science,1,9,0,1
+22,Male,76,74,Mechanical,0,8,0,1
+21,Male,85,72,Information Technology,0,8,0,1
+21,Male,86,78,Mechanical,0,8,0,1
+21,Male,87,87,Electronics And Communication,2,7,0,1
+21,Male,88,91,Computer Science,0,8,0,1
+21,Male,78,82,Computer Science,0,6,0,0
+22,Female,94,85,Civil,1,6,0,0
+22,Male,95,87,Mechanical,1,7,0,0
+21,Male,84,88,Civil,1,8,1,1
+22,Male,82,67,Information Technology,1,6,0,1
+21,Male,87,94,Electrical,1,6,0,1
+22,Female,73,84,Information Technology,2,7,0,0
+22,Male,88,90,Electronics And Communication,0,6,0,0
+22,Male,79,91,Computer Science,1,8,0,1
+21,Male,71,78,Computer Science,2,7,0,0
+22,Male,80,85,Information Technology,0,8,0,1
+22,Female,77,66,Information Technology,0,7,0,0
+21,Male,80,72,Mechanical,0,7,0,0
+23,Male,84,73,Computer Science,0,7,0,1
+23,Male,84,84,Civil,0,6,0,1
+23,Male,74,75,Mechanical,1,5,0,0
+24,Male,94,80,Information Technology,2,6,0,1
+23,Male,91,76,Electrical,0,5,0,0
+23,Male,78,82,Information Technology,1,6,0,0
+24,Female,75,66,Information Technology,0,6,0,1
+24,Male,89,78,Information Technology,1,7,0,1
+24,Male,82,89,Civil,1,7,1,1
+23,Male,71,85,Information Technology,1,7,0,1
+23,Male,87,68,Information Technology,1,6,0,1
+24,Male,71,79,Electronics And Communication,1,6,1,1
+24,Male,87,94,Electrical,0,7,0,0
+23,Male,79,76,Information Technology,1,6,0,0
+24,Male,89,75,Computer Science,0,6,0,1
+23,Male,79,76,Electrical,0,6,0,0
+23,Male,79,85,Information Technology,1,7,0,1
+23,Male,91,79,Information Technology,1,7,0,1
+24,Male,93,70,Information Technology,3,5,1,1
+23,Male,75,88,Mechanical,0,6,0,1
+23,Female,88,90,Information Technology,2,6,0,1
+23,Male,74,70,Electronics And Communication,1,7,0,0
+23,Male,78,76,Information Technology,1,5,0,1
+23,Male,96,85,Information Technology,1,7,0,1
+23,Male,75,88,Mechanical,2,7,0,1
+24,Male,89,87,Information Technology,1,5,0,0
+24,Male,79,81,Information Technology,1,7,0,0
+24,Male,76,85,Computer Science,2,7,0,1
+24,Male,77,79,Electronics And Communication,0,5,0,0
+24,Male,71,79,Information Technology,1,7,0,1
+23,Male,89,74,Mechanical,0,6,1,1
+23,Male,84,70,Computer Science,0,6,0,0
+23,Female,91,75,Mechanical,1,7,0,0
+24,Male,82,93,Computer Science,1,6,0,1
+23,Male,72,93,Mechanical,1,6,1,1
+24,Male,92,89,Computer Science,0,6,0,1
+24,Male,74,72,Mechanical,0,6,0,1
+24,Male,89,86,Information Technology,0,5,0,1
+23,Male,96,75,Electrical,0,5,0,0
+24,Male,75,90,Electrical,0,5,0,0
+23,Male,71,67,Computer Science,1,5,0,1
+23,Male,71,84,Electronics And Communication,0,7,0,1
+24,Male,73,69,Information Technology,3,7,0,1
+24,Male,95,80,Computer Science,2,5,0,1
+24,Male,77,72,Computer Science,2,5,0,1
+23,Male,80,77,Civil,0,7,0,1
+24,Male,92,71,Information Technology,1,6,0,1
+23,Male,90,76,Mechanical,0,5,1,0
+23,Male,84,72,Electrical,0,6,0,0
+24,Male,71,67,Computer Science,1,7,0,1
+23,Male,71,91,Electrical,0,5,0,0
+24,Female,79,91,Information Technology,0,5,0,0
+23,Male,96,81,Computer Science,1,5,0,1
+23,Female,96,89,Electronics And Communication,2,6,0,0
+24,Male,88,72,Civil,0,7,0,1
+24,Male,72,86,Electronics And Communication,2,6,0,1
+23,Male,93,91,Information Technology,0,5,0,0
+24,Male,72,75,Computer Science,2,6,0,1
+23,Male,82,77,Computer Science,1,6,0,0
+24,Male,77,69,Computer Science,0,7,1,1
+22,Male,72,71,Electronics And Communication,0,7,0,1
+22,Male,81,66,Mechanical,0,5,0,0
+22,Male,95,70,Computer Science,1,5,0,0
+21,Male,76,82,Computer Science,1,6,0,1
+21,Male,83,88,Civil,3,6,0,1
+21,Male,95,90,Computer Science,0,6,1,1
+21,Male,73,76,Electrical,0,5,0,0
+21,Female,94,85,Information Technology,1,6,0,0
+22,Male,92,66,Computer Science,1,5,0,0
+22,Male,82,78,Computer Science,1,5,0,0
+21,Male,78,88,Civil,1,6,0,1
+21,Female,76,84,Information Technology,2,5,0,0
+21,Male,79,68,Information Technology,1,6,0,1
+22,Male,81,87,Civil,0,6,0,0
+22,Male,87,93,Civil,0,7,1,0
+21,Male,76,88,Information Technology,0,7,0,1
+21,Male,96,89,Electronics And Communication,0,7,0,1
+22,Female,90,72,Information Technology,1,7,0,0
+22,Male,78,90,Electrical,1,6,0,1
+21,Female,91,79,Mechanical,1,5,0,0
+22,Female,85,92,Information Technology,1,6,0,0
+22,Male,76,68,Computer Science,2,6,0,1
+21,Male,92,87,Electronics And Communication,1,6,1,0
+22,Male,71,79,Civil,0,5,0,0
+21,Male,78,92,Electrical,2,5,1,0
+22,Male,93,89,Civil,1,7,0,0
+21,Female,88,69,Computer Science,1,7,0,0
+21,Male,73,70,Computer Science,1,6,0,0
+22,Female,90,69,Electronics And Communication,1,5,0,0
+21,Female,77,86,Information Technology,0,6,0,0
+22,Male,79,78,Computer Science,0,5,0,0
+22,Male,84,81,Computer Science,0,5,0,0
+21,Male,72,84,Mechanical,0,7,0,0
+21,Male,76,81,Computer Science,0,5,0,0
+21,Male,78,73,Information Technology,0,5,1,0
+22,Female,96,93,Computer Science,1,5,0,0
+21,Male,89,80,Electronics And Communication,2,6,1,0
+21,Male,82,89,Information Technology,1,5,1,0
+22,Female,79,93,Computer Science,2,7,0,0
+21,Male,96,70,Computer Science,0,8,0,1
+21,Male,70,72,Computer Science,2,7,0,1
+22,Male,83,70,Computer Science,1,6,0,0
+21,Female,94,85,Information Technology,2,6,0,1
+21,Male,80,87,Electronics And Communication,1,7,0,0
+21,Female,84,70,Computer Science,1,7,0,0
+21,Male,85,84,Mechanical,0,8,0,1
+22,Male,84,87,Mechanical,0,8,0,1
+22,Male,96,81,Information Technology,1,6,0,0
+21,Female,75,88,Electrical,0,7,0,0
+21,Male,87,94,Mechanical,0,8,0,1
+21,Male,71,83,Computer Science,2,8,0,1
+21,Male,78,75,Information Technology,1,7,0,0
+22,Male,76,86,Information Technology,0,6,1,0
+22,Male,78,88,Information Technology,1,8,0,1
+21,Male,93,71,Electrical,1,7,0,1
+21,Female,71,71,Civil,1,6,0,0
+21,Male,73,94,Computer Science,3,6,0,1
+21,Male,85,79,Civil,1,7,0,0
+22,Male,89,89,Electrical,1,7,0,0
+21,Male,87,70,Electronics And Communication,2,6,1,0
+22,Male,76,74,Electrical,1,8,1,1
+22,Male,77,74,Computer Science,2,8,0,1
+21,Male,95,67,Mechanical,1,6,1,0
+22,Male,84,80,Computer Science,0,7,0,0
+22,Male,96,74,Civil,0,6,0,0
+21,Male,77,91,Civil,0,6,0,0
+21,Female,79,93,Computer Science,1,7,0,0
+21,Male,72,68,Computer Science,2,7,0,1
+21,Female,79,78,Mechanical,1,6,0,0
+22,Male,93,75,Mechanical,0,6,0,0
+22,Male,91,94,Electronics And Communication,1,8,0,1
+22,Male,80,76,Computer Science,1,8,0,1
+21,Female,77,67,Information Technology,0,8,0,1
+22,Male,83,81,Information Technology,1,7,0,0
+21,Male,86,89,Information Technology,0,8,1,1
+22,Male,92,94,Computer Science,1,8,0,1
+22,Male,80,81,Computer Science,1,7,0,0
+21,Female,91,94,Information Technology,2,7,0,1
+21,Female,90,68,Mechanical,1,8,0,1
+21,Female,71,80,Computer Science,1,6,0,0
+22,Female,74,83,Information Technology,1,7,0,0
+22,Female,96,77,Computer Science,0,6,0,0
+21,Male,74,74,Information Technology,2,8,0,1
+22,Male,94,76,Civil,0,7,1,0
+21,Male,79,79,Electrical,1,6,0,0
+21,Male,70,68,Electronics And Communication,2,6,0,1
+21,Male,96,84,Mechanical,1,7,0,0
+22,Male,78,76,Civil,0,7,0,0
+22,Female,80,81,Electrical,1,6,0,0
+22,Male,95,91,Computer Science,0,8,0,1
+21,Male,77,67,Computer Science,3,8,0,1
+21,Female,79,76,Information Technology,0,8,1,1
+22,Male,77,71,Electronics And Communication,0,6,0,0
+22,Male,86,82,Civil,1,7,0,0
+22,Male,72,75,Information Technology,1,8,1,1
+22,Female,90,82,Computer Science,1,8,1,1
+22,Male,86,76,Mechanical,1,8,0,1
+21,Male,87,69,Electrical,2,6,0,1
+22,Male,78,70,Electronics And Communication,1,6,0,0
+22,Male,78,68,Information Technology,0,8,0,1
+22,Female,77,89,Computer Science,1,7,0,0
+21,Male,73,89,Information Technology,1,8,0,1
+21,Male,89,87,Electrical,1,7,0,1
+22,Male,92,78,Mechanical,0,8,1,1
+21,Male,70,91,Civil,0,6,0,0
+21,Male,79,79,Information Technology,1,6,0,0
+21,Female,81,83,Information Technology,1,8,0,1
+22,Male,78,85,Electronics And Communication,1,8,1,1
+21,Male,73,73,Civil,1,7,0,0
+22,Male,75,81,Information Technology,2,6,0,1
+21,Male,74,66,Electrical,0,6,0,0
+22,Male,72,73,Information Technology,1,7,1,0
+21,Male,94,82,Electronics And Communication,0,6,0,0
+22,Male,70,69,Computer Science,0,8,1,1
+21,Male,75,73,Electronics And Communication,1,7,0,0
+22,Male,92,73,Mechanical,0,6,0,0
+21,Male,75,85,Civil,0,7,0,0
+21,Female,76,93,Civil,1,7,0,0
+21,Male,91,69,Computer Science,1,7,0,0
+21,Male,86,75,Information Technology,0,6,1,1
+21,Female,70,72,Electronics And Communication,2,7,0,1
+22,Female,86,73,Mechanical,1,8,0,1
+21,Male,96,70,Mechanical,0,6,1,1
+21,Male,91,77,Civil,0,7,0,1
+22,Male,85,71,Electronics And Communication,0,8,0,1
+21,Male,86,66,Electronics And Communication,1,6,1,1
+21,Male,89,87,Mechanical,2,6,0,0
+22,Male,74,73,Computer Science,0,8,0,1
+21,Male,84,84,Civil,0,7,0,0
+22,Male,87,83,Information Technology,0,7,0,0
+22,Male,72,88,Computer Science,0,7,0,0
+22,Male,91,84,Civil,1,6,0,0
+22,Female,80,75,Computer Science,2,6,1,0
+22,Male,72,84,Electronics And Communication,0,7,0,1
+21,Male,90,69,Civil,0,8,0,1
+21,Male,80,70,Civil,0,8,0,1
+22,Male,95,78,Computer Science,2,6,0,1
+22,Male,81,69,Computer Science,2,7,0,1
+22,Male,74,66,Electronics And Communication,1,7,1,1
+21,Male,94,89,Information Technology,2,7,0,1
+22,Male,75,89,Civil,0,6,0,0
+22,Male,76,89,Civil,1,6,0,1
+21,Male,75,75,Electronics And Communication,0,7,0,0
+21,Male,79,85,Information Technology,0,7,0,1
+22,Male,89,74,Electronics And Communication,1,8,0,1
+22,Male,78,85,Computer Science,0,6,1,0
+22,Male,78,91,Electrical,2,8,1,1
+22,Male,89,73,Information Technology,0,6,1,1
+22,Female,76,88,Computer Science,1,6,0,1
+21,Male,73,72,Electrical,0,8,0,1
+21,Male,70,75,Computer Science,1,7,0,1
+22,Male,83,71,Information Technology,2,7,1,1
+22,Female,84,80,Computer Science,1,8,0,1
+22,Male,91,86,Civil,0,6,0,1
+22,Male,95,80,Mechanical,0,6,0,1
+22,Male,94,91,Civil,0,7,0,0
+22,Female,91,77,Information Technology,0,6,0,1
+22,Male,81,79,Electrical,1,8,0,1
+21,Female,79,90,Computer Science,0,6,0,0
+21,Male,94,92,Computer Science,1,6,0,1
+21,Male,89,80,Computer Science,0,8,0,1
+21,Male,83,93,Mechanical,0,7,1,1
+21,Male,76,87,Computer Science,2,8,0,1
+22,Male,79,73,Civil,0,8,0,1
+21,Male,93,70,Mechanical,1,6,0,0
+22,Male,83,68,Computer Science,0,8,0,1
+21,Male,81,72,Computer Science,1,8,0,1
+21,Male,88,68,Electronics And Communication,0,6,0,0
+22,Male,78,80,Electronics And Communication,1,6,1,0
+22,Male,79,83,Information Technology,0,8,0,1
+21,Male,90,79,Computer Science,1,6,0,0
+22,Female,70,92,Electrical,0,6,0,1
+22,Male,85,90,Electronics And Communication,0,7,0,0
+21,Male,96,66,Information Technology,0,8,0,1
+22,Male,80,93,Mechanical,0,8,1,1
+22,Male,89,74,Mechanical,0,7,1,0
+21,Male,73,93,Electronics And Communication,0,8,0,1
+21,Male,78,89,Information Technology,1,6,0,0
+22,Female,90,94,Computer Science,2,7,0,1
+22,Male,82,89,Electronics And Communication,0,7,0,0
+21,Male,82,71,Electronics And Communication,1,7,1,1
+22,Male,70,74,Information Technology,0,8,0,1
+21,Male,91,81,Information Technology,0,8,0,1
+22,Female,93,88,Electrical,1,8,1,1
+22,Male,77,80,Information Technology,1,6,0,1
+22,Male,77,72,Mechanical,0,8,1,1
+21,Male,91,80,Mechanical,0,6,0,1
+21,Male,75,81,Electronics And Communication,1,8,0,1
+21,Male,82,84,Civil,0,7,0,0
+22,Female,86,66,Computer Science,1,8,0,1
+22,Female,91,84,Information Technology,1,7,0,1
+21,Male,91,80,Mechanical,1,6,0,0
+21,Male,93,78,Mechanical,0,7,0,1
+21,Male,74,93,Electronics And Communication,0,8,0,1
+22,Male,73,82,Computer Science,0,6,0,1
+22,Male,73,78,Electrical,0,6,1,0
+21,Male,70,75,Information Technology,2,8,0,1
+22,Male,71,92,Electrical,0,8,0,1
+21,Male,77,85,Electronics And Communication,1,7,0,0
+22,Male,86,70,Mechanical,0,7,0,1
+22,Male,85,79,Electronics And Communication,0,7,0,0
+21,Male,85,75,Computer Science,1,8,0,1
+22,Male,87,66,Electronics And Communication,0,8,0,1
+21,Male,80,68,Computer Science,0,8,1,1
+21,Male,95,91,Information Technology,1,7,1,0
+22,Male,74,85,Electronics And Communication,0,7,0,0
+22,Male,91,66,Computer Science,1,6,0,0
+21,Male,86,88,Computer Science,0,8,1,1
+21,Female,76,71,Electrical,0,6,0,0
+21,Male,94,84,Information Technology,0,6,0,0
+22,Male,80,70,Computer Science,2,8,0,1
+21,Female,81,88,Computer Science,1,7,0,0
+22,Male,96,91,Information Technology,0,6,0,0
+22,Male,87,75,Information Technology,0,6,0,0
+22,Male,81,77,Civil,1,6,0,0
+22,Male,75,93,Mechanical,0,7,0,0
+21,Male,87,89,Mechanical,0,8,0,1
+21,Female,88,93,Information Technology,0,6,0,0
+21,Male,85,70,Mechanical,1,6,1,0
+22,Male,80,90,Computer Science,0,7,1,0
+21,Male,96,87,Computer Science,0,7,0,0
+22,Male,72,93,Information Technology,0,8,0,1
+21,Male,87,84,Computer Science,0,6,0,0
+21,Male,81,75,Information Technology,1,6,0,0
+22,Female,82,90,Electronics And Communication,1,6,1,0
+21,Male,78,68,Information Technology,0,6,0,0
+21,Male,76,87,Computer Science,1,8,0,1
+22,Male,76,75,Mechanical,1,6,0,0
+22,Female,89,78,Electronics And Communication,0,7,0,0
+22,Female,70,73,Information Technology,0,7,1,0
+22,Male,71,70,Civil,0,6,0,0
+22,Male,80,89,Mechanical,0,8,0,1
+21,Male,95,72,Electronics And Communication,0,8,0,1
+22,Male,90,84,Computer Science,1,6,0,0
+21,Male,82,73,Mechanical,0,6,0,0
+21,Male,89,89,Information Technology,1,8,0,1
+21,Male,91,77,Electronics And Communication,1,8,1,1
+21,Male,89,70,Electronics And Communication,2,8,0,1
+21,Female,73,85,Electronics And Communication,2,7,0,1
+21,Male,91,74,Information Technology,0,6,1,0
+22,Male,89,72,Electrical,0,6,0,0
+22,Male,75,87,Mechanical,1,6,0,0
+21,Male,85,83,Electronics And Communication,1,6,1,0
+21,Female,74,92,Information Technology,1,5,0,0
+21,Female,89,71,Computer Science,0,6,1,0
+22,Male,76,74,Information Technology,1,5,0,0
+21,Male,93,73,Mechanical,1,5,1,0
+21,Male,73,78,Information Technology,2,6,0,1
+21,Male,70,91,Computer Science,2,5,1,0
+22,Male,81,71,Electrical,0,5,0,0
+21,Male,79,72,Information Technology,0,5,1,0
+22,Male,85,92,Electronics And Communication,2,7,1,0
+21,Male,92,75,Electrical,0,7,1,0
+21,Male,90,70,Electronics And Communication,1,6,1,0
+22,Male,96,78,Computer Science,1,6,0,0
+22,Male,92,67,Mechanical,0,6,0,0
+22,Male,95,79,Computer Science,2,6,0,1
+21,Male,87,88,Electrical,0,6,0,0
+22,Male,93,72,Civil,0,6,0,0
+22,Male,84,81,Information Technology,0,7,0,0
+21,Male,86,73,Computer Science,0,6,1,0
+22,Male,86,70,Electrical,2,6,1,0
+22,Male,73,93,Computer Science,1,6,0,0
+21,Male,70,81,Computer Science,1,7,0,0
+22,Male,87,83,Mechanical,0,8,0,1
+21,Male,92,74,Electrical,3,7,0,1
+22,Male,77,86,Mechanical,0,8,1,1
+21,Male,82,75,Electrical,0,6,0,0
+21,Female,76,80,Computer Science,0,8,0,1
+21,Male,73,91,Computer Science,0,7,0,0
+21,Female,87,67,Electrical,1,6,0,0
+22,Female,73,72,Civil,1,8,0,1
+21,Male,72,88,Civil,0,8,0,1
+21,Male,75,80,Information Technology,1,6,0,0
+21,Male,91,73,Computer Science,1,6,0,0
+21,Male,83,89,Mechanical,0,6,1,0
+21,Male,72,92,Civil,0,7,0,0
+21,Female,91,74,Information Technology,1,8,0,1
+22,Male,96,89,Civil,0,8,0,1
+22,Male,88,66,Computer Science,0,7,1,0
+21,Male,88,69,Electrical,0,6,0,0
+21,Male,86,85,Electrical,1,6,1,0
+22,Male,83,67,Electronics And Communication,1,8,1,1
+21,Male,77,75,Computer Science,0,7,1,0
+21,Male,95,67,Computer Science,0,7,1,0
+21,Male,78,94,Civil,1,8,1,1
+22,Male,70,81,Information Technology,0,8,0,1
+21,Male,83,66,Electronics And Communication,0,6,0,0
+28,Male,81,80,Civil,0,8,0,1
+21,Male,75,83,Computer Science,2,7,0,1
+22,Male,82,71,Electronics And Communication,2,6,0,1
+21,Male,77,72,Information Technology,1,8,0,1
+22,Male,86,83,Mechanical,0,6,0,1
+21,Male,73,83,Mechanical,0,8,0,1
+21,Male,93,84,Information Technology,1,6,0,0
+22,Female,77,77,Mechanical,1,7,0,0
+22,Male,86,84,Electronics And Communication,0,8,0,1
+21,Male,87,69,Electrical,0,6,0,0
+21,Male,90,88,Mechanical,0,6,0,1
+22,Male,91,67,Mechanical,0,7,0,0
+22,Male,82,91,Electronics And Communication,1,6,1,0
+22,Male,79,90,Computer Science,0,7,1,1
+21,Male,89,73,Computer Science,0,7,0,1
+22,Male,91,74,Computer Science,0,8,1,1
+22,Male,73,66,Information Technology,1,6,0,0
+21,Male,75,82,Electronics And Communication,0,6,0,0
+22,Male,81,81,Computer Science,0,6,0,1
+21,Male,92,66,Civil,0,6,0,1
+22,Female,81,83,Information Technology,1,8,0,1
+21,Male,85,84,Information Technology,1,8,0,1
+21,Male,82,77,Mechanical,0,8,0,1
+22,Male,82,72,Civil,0,6,0,0
+22,Male,72,93,Electrical,0,7,1,0
+21,Male,88,69,Information Technology,1,6,1,1
+21,Male,76,83,Mechanical,1,6,0,0
+22,Male,71,67,Mechanical,0,6,1,1
+22,Female,88,91,Information Technology,0,7,0,1
+22,Male,86,68,Information Technology,2,7,0,0
+21,Male,96,86,Computer Science,3,8,0,1
+22,Male,72,66,Computer Science,0,6,0,1
+21,Male,70,67,Computer Science,0,8,1,1
+21,Female,95,90,Information Technology,1,8,1,1
+21,Female,83,70,Computer Science,0,8,1,1
+22,Male,73,94,Information Technology,1,6,0,1
+21,Male,82,72,Electronics And Communication,0,8,1,1
+22,Female,96,91,Mechanical,1,7,0,0
+21,Male,94,87,Information Technology,1,8,0,1
+22,Male,93,90,Electrical,0,6,0,0
+22,Male,77,75,Mechanical,0,7,0,0
+22,Male,82,71,Civil,0,6,0,0
+22,Male,92,72,Information Technology,0,6,1,1
+22,Male,70,74,Electronics And Communication,1,7,0,0
+21,Male,71,88,Information Technology,1,8,0,1
+22,Male,96,78,Electrical,1,7,0,0
+22,Male,73,89,Mechanical,0,6,0,1
+21,Male,81,76,Civil,2,6,0,1
+22,Male,85,66,Electronics And Communication,0,6,0,1
+21,Male,92,73,Computer Science,0,7,0,1
+22,Male,75,89,Mechanical,0,7,1,0
+22,Male,85,73,Mechanical,2,7,0,1
+22,Male,70,81,Mechanical,0,7,0,1
+21,Male,80,92,Computer Science,0,7,0,0
+22,Male,88,69,Computer Science,1,7,0,1
+21,Male,94,74,Electrical,0,6,0,1
+22,Male,82,75,Civil,0,6,0,0
+21,Male,77,70,Information Technology,3,8,0,1
+22,Female,80,78,Electronics And Communication,3,8,1,1
+21,Male,84,87,Information Technology,0,7,1,1
+21,Male,75,88,Computer Science,1,8,0,1
+21,Male,84,77,Information Technology,0,7,0,0
+21,Male,84,71,Mechanical,2,6,0,1
+22,Male,79,92,Mechanical,0,8,0,1
+21,Female,89,82,Computer Science,1,8,0,1
+22,Male,76,89,Electrical,0,8,1,1
+21,Male,76,72,Civil,1,8,0,1
+22,Female,89,89,Computer Science,1,7,0,0
+21,Male,77,91,Electrical,0,7,0,0
+21,Female,93,70,Information Technology,0,7,0,0
+21,Female,95,68,Computer Science,1,8,0,1
+21,Male,95,84,Computer Science,1,8,0,1
+21,Male,91,77,Electronics And Communication,1,6,0,0
+22,Male,74,92,Mechanical,0,8,0,1
+22,Male,80,89,Electronics And Communication,1,8,0,1
+21,Male,91,70,Computer Science,1,6,0,0
+21,Male,72,83,Civil,0,7,0,0
+22,Male,79,84,Electronics And Communication,1,7,1,0
+22,Male,82,66,Electrical,1,7,0,0
+22,Male,78,86,Electrical,0,8,0,1
+21,Male,75,84,Information Technology,1,8,0,1
+22,Male,74,93,Mechanical,2,7,0,0
+21,Male,91,85,Civil,0,6,1,0
+22,Male,92,93,Mechanical,1,6,0,0
+22,Male,89,77,Electronics And Communication,1,7,0,0
+22,Male,89,78,Mechanical,1,7,0,0
+22,Female,72,92,Mechanical,1,8,0,1
+21,Male,72,71,Computer Science,0,7,1,0
+21,Male,77,88,Electronics And Communication,0,8,0,1
+21,Male,80,68,Mechanical,1,7,0,0
+22,Male,76,90,Information Technology,0,7,0,0
+21,Male,83,91,Computer Science,2,7,0,1
+22,Male,76,78,Civil,1,8,0,1
+22,Male,96,71,Electronics And Communication,0,8,0,1
+22,Male,85,80,Mechanical,0,7,0,0
+22,Male,90,79,Information Technology,1,7,0,0
+22,Male,78,76,Computer Science,1,6,0,0
+21,Male,76,68,Computer Science,1,6,0,0
+22,Female,77,77,Civil,1,6,0,0
+21,Female,96,91,Civil,1,8,0,1
+22,Female,78,76,Computer Science,1,7,0,0
+21,Male,81,92,Mechanical,1,8,0,1
+30,Male,80,90,Computer Science,1,8,0,1
+22,Male,82,90,Information Technology,0,8,1,1
+21,Male,94,77,Information Technology,1,7,1,0
+22,Female,95,74,Electronics And Communication,0,7,0,0
+22,Male,71,81,Information Technology,1,8,0,1
+22,Male,76,86,Civil,1,7,0,0
+22,Male,76,79,Electrical,1,6,1,0
+21,Female,77,94,Civil,1,7,1,0
+21,Male,71,93,Computer Science,0,6,0,0
+22,Male,83,84,Electrical,1,7,0,0
+21,Male,95,76,Information Technology,0,8,1,1
+21,Male,85,90,Computer Science,1,7,0,0
+22,Male,73,74,Electrical,1,7,1,0
+22,Male,91,80,Electrical,0,8,0,1
+22,Male,75,89,Electrical,1,7,0,0
+21,Male,86,73,Computer Science,1,7,0,0
+21,Male,74,84,Computer Science,2,7,0,1
+21,Male,79,81,Computer Science,0,7,0,0
+22,Male,94,90,Electrical,0,7,1,0
+22,Male,94,88,Computer Science,2,6,0,1
+22,Male,91,80,Electronics And Communication,0,8,0,1
+21,Male,89,81,Electrical,0,7,0,0
+22,Male,95,72,Information Technology,1,6,0,0
+21,Male,71,91,Computer Science,0,7,0,0
+22,Female,82,69,Information Technology,0,8,0,1
+22,Male,79,75,Electronics And Communication,1,7,0,0
+21,Male,70,93,Information Technology,0,6,0,0
+21,Male,75,94,Civil,0,7,0,0
+22,Male,73,71,Electrical,1,8,0,1
+22,Male,92,80,Computer Science,0,6,0,0
+21,Male,93,87,Information Technology,0,7,0,0
+21,Male,71,70,Civil,1,8,0,1
+21,Male,94,66,Computer Science,1,7,0,0
+22,Male,73,72,Civil,0,7,0,0
+21,Male,86,90,Computer Science,2,7,1,0
+22,Female,81,79,Electronics And Communication,0,8,0,1
+21,Male,72,72,Computer Science,1,7,0,0
+22,Male,75,77,Computer Science,1,6,0,0
+21,Male,96,91,Computer Science,0,7,1,0
+21,Male,96,88,Electronics And Communication,1,7,0,1
+21,Male,88,81,Information Technology,1,8,1,1
+21,Male,81,89,Electronics And Communication,0,7,0,1
+22,Male,80,68,Information Technology,2,6,0,1
+22,Male,74,73,Computer Science,1,6,0,0
+21,Male,96,67,Electronics And Communication,0,7,0,1
+22,Male,92,81,Computer Science,1,6,0,1
+21,Male,75,74,Electronics And Communication,0,8,0,1
+22,Female,87,74,Information Technology,0,8,0,1
+22,Male,83,94,Information Technology,1,7,0,0
+21,Male,85,67,Information Technology,2,6,0,1
+21,Male,91,83,Computer Science,2,8,0,1
+22,Female,79,68,Information Technology,2,7,0,1
+21,Male,71,85,Computer Science,2,7,0,1
+21,Male,80,66,Information Technology,2,8,0,1
+21,Male,70,83,Computer Science,2,7,0,1
+22,Female,93,75,Information Technology,1,7,0,1
+22,Male,76,82,Computer Science,2,7,0,1
+21,Male,75,68,Electrical,1,8,0,1
+21,Male,72,78,Information Technology,2,7,1,0
+22,Male,75,80,Computer Science,1,8,1,1
+21,Male,86,72,Computer Science,1,7,0,0
+21,Male,80,84,Civil,2,6,0,0
+22,Male,81,94,Electrical,1,6,0,0
+21,Male,91,83,Information Technology,1,8,1,1
+21,Male,83,90,Electronics And Communication,1,7,0,0
+21,Male,70,71,Electrical,1,7,1,1
+21,Male,86,72,Electrical,2,8,0,1
+22,Male,70,94,Electronics And Communication,1,8,0,1
+22,Male,94,90,Mechanical,1,8,0,1
+21,Male,84,92,Civil,2,8,1,1
+22,Female,88,85,Computer Science,1,6,0,1
+22,Male,77,83,Electrical,2,6,0,1
+22,Male,96,88,Mechanical,2,7,0,0
+22,Female,73,82,Electronics And Communication,1,7,0,0
+22,Female,94,86,Electronics And Communication,2,8,0,1
+22,Male,92,87,Electronics And Communication,1,8,0,1
+21,Male,84,69,Mechanical,1,6,0,0
+22,Male,90,66,Mechanical,2,6,0,1
+22,Male,78,76,Civil,1,6,0,0
+21,Male,85,77,Mechanical,1,8,0,1
+21,Female,79,82,Information Technology,2,6,0,1
+21,Male,91,76,Electronics And Communication,2,8,0,1
+21,Male,96,90,Information Technology,2,8,1,1
+22,Male,78,87,Computer Science,2,7,0,0
+22,Male,88,94,Information Technology,1,8,0,1
+22,Male,75,78,Electrical,2,8,0,1
+22,Male,94,78,Electronics And Communication,2,8,0,1
+21,Male,81,82,Computer Science,2,6,0,1
+22,Male,95,74,Computer Science,1,7,0,1
+21,Female,76,91,Mechanical,1,7,0,0
+21,Male,90,89,Computer Science,2,6,0,1
+22,Female,78,76,Computer Science,1,6,0,1
+21,Male,75,78,Mechanical,1,6,1,0
+22,Male,86,68,Electronics And Communication,1,7,1,0
+21,Female,96,67,Computer Science,1,8,0,1
+22,Male,86,78,Electrical,1,7,0,0
+21,Male,82,90,Information Technology,2,6,0,1
+21,Female,94,85,Information Technology,1,7,1,1
+22,Female,75,79,Information Technology,1,6,0,1
+21,Male,77,89,Mechanical,2,6,0,1
+22,Male,85,68,Mechanical,1,6,0,0
+21,Male,77,76,Electronics And Communication,1,7,0,1
+22,Male,92,92,Information Technology,0,6,0,1
+22,Male,77,75,Civil,1,8,0,1
+21,Male,88,69,Electrical,0,7,0,0
+22,Male,70,80,Electronics And Communication,1,7,0,0
+22,Female,80,72,Information Technology,1,8,0,1
+22,Female,87,68,Electrical,1,6,1,0
+21,Male,91,78,Mechanical,0,7,0,0
+22,Male,71,67,Electronics And Communication,0,7,0,0
+22,Male,77,87,Information Technology,1,7,0,0
+22,Male,92,88,Computer Science,0,7,1,0
+21,Male,79,86,Electronics And Communication,1,8,1,1
+22,Male,82,92,Computer Science,0,6,0,0
+22,Male,93,67,Information Technology,0,7,0,0
+21,Male,89,73,Electronics And Communication,1,6,0,0
+22,Male,89,68,Mechanical,1,7,1,0
+22,Male,94,76,Computer Science,2,7,0,0
+22,Female,74,83,Electrical,1,7,1,0
+21,Male,95,94,Civil,1,6,0,0
+22,Male,90,77,Civil,0,6,0,0
+22,Male,76,74,Electrical,0,7,0,0
+21,Male,83,82,Computer Science,1,7,0,0
+22,Female,96,82,Information Technology,0,6,0,0
+21,Male,83,80,Electrical,0,8,0,1
+21,Male,83,87,Mechanical,0,7,0,0
+21,Male,78,94,Computer Science,1,6,0,0
+22,Male,90,67,Computer Science,0,7,0,0
+22,Female,70,69,Civil,1,8,0,1
+22,Female,83,88,Information Technology,1,7,0,0
+21,Female,85,80,Information Technology,2,8,1,1
+21,Male,80,74,Computer Science,1,8,0,1
+22,Male,79,79,Information Technology,0,8,0,1
+21,Female,84,75,Electronics And Communication,0,6,0,0
+22,Male,81,73,Civil,2,6,0,1
+21,Male,93,91,Electronics And Communication,2,8,0,1
+21,Male,70,67,Mechanical,0,7,0,0
+21,Male,75,93,Electrical,0,7,0,0
+22,Male,95,66,Mechanical,0,8,0,1
+21,Male,96,94,Civil,0,6,0,0
+22,Male,76,94,Information Technology,0,8,0,1
+21,Male,77,84,Computer Science,1,7,0,0
+22,Male,85,70,Computer Science,1,8,0,1
+21,Male,81,69,Information Technology,2,8,0,1
+22,Male,93,89,Information Technology,1,7,0,0
+22,Female,70,83,Civil,1,6,0,0
+21,Male,72,69,Computer Science,0,8,0,1
+21,Male,79,89,Computer Science,0,8,1,1
+21,Male,87,81,Mechanical,2,6,0,1
+21,Male,89,79,Electrical,1,8,0,1
+25,Male,89,81,Computer Science,0,7,0,0
+26,Male,85,92,Electronics And Communication,2,6,0,1
+24,Female,93,76,Electrical,1,8,1,1
+25,Male,84,85,Computer Science,2,6,0,1
+24,Female,90,67,Electronics And Communication,0,6,0,1
+25,Male,92,86,Computer Science,1,8,0,1
+23,Male,70,90,Electronics And Communication,0,9,0,1
+24,Male,83,66,Electrical,1,7,0,1
+25,Male,91,91,Civil,0,9,0,1
+25,Male,79,84,Computer Science,1,8,0,1
+26,Female,72,70,Information Technology,1,6,0,1
+26,Male,92,85,Information Technology,1,6,0,1
+25,Male,71,83,Electrical,0,8,0,1
+26,Male,74,74,Information Technology,0,8,0,1
+24,Male,89,66,Information Technology,0,8,0,1
+25,Male,78,68,Computer Science,1,8,0,1
+23,Male,72,85,Computer Science,1,6,0,1
+23,Male,91,79,Civil,0,7,0,0
+24,Male,81,73,Electronics And Communication,1,9,0,1
+25,Male,73,67,Computer Science,0,8,0,1
+24,Male,73,86,Computer Science,0,7,1,1
+24,Male,88,93,Mechanical,2,8,0,1
+23,Male,76,80,Mechanical,1,8,0,1
+26,Male,78,77,Information Technology,1,8,0,1
+23,Female,81,79,Civil,1,7,1,0
+26,Male,90,89,Computer Science,1,9,0,1
+26,Male,79,90,Electrical,2,8,0,1
+26,Male,75,67,Electrical,0,9,1,1
+26,Male,79,73,Civil,0,6,0,1
+24,Male,82,79,Mechanical,0,9,1,1
+24,Male,71,93,Computer Science,1,7,0,1
+23,Male,79,66,Electrical,0,8,0,1
+26,Female,75,76,Mechanical,1,7,0,0
+23,Male,85,81,Information Technology,1,7,0,0
+24,Male,90,89,Mechanical,0,8,0,1
+26,Male,75,70,Civil,0,9,0,1
+25,Male,92,67,Electrical,0,7,0,0
+23,Male,79,72,Mechanical,0,9,1,1
+24,Female,82,79,Computer Science,1,8,0,1
+23,Male,81,88,Information Technology,1,8,0,1
+23,Male,91,86,Mechanical,0,7,0,0
+26,Male,93,76,Computer Science,3,7,0,1
+24,Male,73,66,Information Technology,1,6,0,1
+26,Male,88,89,Electrical,1,8,0,1
+23,Male,80,86,Computer Science,1,6,0,1
+23,Male,75,75,Civil,1,7,0,0
+26,Male,81,93,Information Technology,1,7,0,1
+26,Male,95,86,Civil,0,7,0,0
+24,Male,75,68,Computer Science,1,7,0,1
+23,Male,70,93,Information Technology,0,8,0,1
+26,Female,87,67,Information Technology,1,6,1,1
+23,Male,93,66,Electronics And Communication,1,6,1,0
+24,Male,86,66,Civil,0,7,0,0
+24,Male,91,76,Computer Science,1,6,0,1
+25,Male,81,89,Information Technology,1,6,0,1
+25,Male,78,91,Computer Science,0,8,0,1
+26,Male,78,87,Civil,0,8,0,1
+24,Male,71,81,Mechanical,0,6,0,1
+26,Female,79,70,Electrical,1,8,0,1
+25,Male,83,87,Information Technology,1,8,0,1
+22,Male,70,94,Computer Science,0,6,0,1
+21,Male,92,80,Information Technology,0,6,0,1
+22,Male,81,84,Electrical,1,6,0,0
+22,Male,92,88,Information Technology,1,6,0,1
+22,Female,76,78,Computer Science,1,6,0,1
+22,Male,78,67,Electronics And Communication,1,8,0,1
+21,Female,71,93,Computer Science,1,6,0,1
+22,Male,90,85,Computer Science,1,6,0,0
+21,Female,90,69,Information Technology,1,6,0,1
+21,Male,70,88,Electrical,0,8,0,1
+22,Male,77,69,Mechanical,0,7,0,0
+22,Female,86,93,Computer Science,2,8,0,1
+22,Male,82,80,Computer Science,1,8,0,1
+22,Male,73,86,Computer Science,1,8,0,1
+21,Male,96,87,Information Technology,0,7,0,1
+21,Female,93,83,Electronics And Communication,0,6,0,0
+21,Male,90,75,Electrical,1,6,0,0
+22,Male,73,83,Computer Science,1,6,0,1
+22,Male,84,68,Electrical,0,8,0,1
+21,Male,71,90,Electrical,1,7,1,1
+21,Female,92,72,Mechanical,1,7,0,0
+22,Male,79,80,Electrical,0,7,0,0
+21,Female,81,81,Information Technology,2,8,0,1
+22,Male,86,67,Mechanical,0,8,0,1
+21,Male,71,77,Computer Science,1,8,0,1
+22,Male,86,88,Civil,0,6,1,0
+21,Male,93,94,Information Technology,0,6,0,0
+21,Female,88,81,Electronics And Communication,1,8,1,1
+22,Female,75,81,Information Technology,1,8,0,1
+22,Male,72,81,Mechanical,1,8,0,1
+22,Male,88,76,Civil,0,8,0,1
+22,Male,84,67,Civil,0,6,0,0
+22,Male,76,92,Computer Science,1,8,0,1
+22,Male,74,86,Electronics And Communication,1,8,0,1
+22,Male,93,76,Computer Science,2,8,1,1
+22,Female,89,71,Electrical,0,8,0,1
+22,Male,80,94,Information Technology,1,7,0,1
+22,Female,85,69,Computer Science,0,8,0,1
+22,Male,86,71,Electrical,0,7,0,0
+21,Male,84,87,Electronics And Communication,0,8,1,1
+22,Female,86,92,Information Technology,0,7,0,1
+21,Male,84,83,Computer Science,1,7,0,1
+22,Male,95,73,Civil,1,6,0,0
+21,Female,81,83,Information Technology,0,6,0,1
+22,Male,93,87,Computer Science,1,8,0,1
+21,Male,76,82,Mechanical,0,8,0,1
+22,Male,91,82,Civil,0,6,0,0
+22,Male,74,92,Computer Science,1,6,0,1
+22,Male,74,73,Computer Science,1,7,0,1
+21,Male,87,94,Civil,0,6,0,0
+22,Male,94,66,Computer Science,1,8,0,1
+21,Male,71,88,Civil,1,8,0,1
+21,Male,83,79,Electronics And Communication,1,6,1,0
+22,Female,71,82,Mechanical,1,8,0,1
+22,Male,90,73,Information Technology,0,8,0,1
+21,Male,92,70,Civil,0,6,0,0
+22,Male,84,85,Electronics And Communication,1,6,0,0
+21,Male,93,84,Mechanical,0,8,0,1
+21,Female,76,81,Electrical,0,7,0,0
+22,Male,93,87,Computer Science,0,6,0,1
+22,Female,94,74,Information Technology,1,7,0,1
+21,Male,93,75,Electronics And Communication,1,8,0,1
+21,Male,81,74,Computer Science,2,8,0,1
+22,Male,75,77,Civil,0,7,1,0
+21,Male,81,86,Electronics And Communication,0,7,0,0
+21,Male,87,80,Civil,0,8,0,1
+21,Male,75,84,Mechanical,0,7,0,0
+21,Female,92,68,Information Technology,0,7,0,1
+21,Male,74,67,Electronics And Communication,2,6,0,1
+21,Female,79,79,Information Technology,0,8,0,1
+21,Male,87,84,Electronics And Communication,0,7,0,1
+21,Male,70,70,Information Technology,1,8,0,1
+22,Male,89,71,Electronics And Communication,3,7,0,0
+21,Male,79,91,Mechanical,0,6,0,0
+21,Male,81,66,Mechanical,0,6,0,0
+21,Female,96,79,Mechanical,1,8,0,1
+22,Male,81,83,Electrical,0,8,0,1
+21,Male,76,86,Information Technology,0,6,0,1
+22,Female,74,70,Information Technology,0,6,0,1
+22,Male,88,67,Computer Science,1,6,0,0
+21,Male,88,85,Information Technology,0,6,0,1
+22,Male,91,85,Computer Science,1,7,0,1
+22,Male,92,76,Mechanical,1,8,0,1
+22,Male,86,80,Electrical,0,7,0,0
+22,Male,84,76,Electronics And Communication,1,6,1,0
+21,Male,80,80,Computer Science,0,7,0,1
+22,Male,74,74,Electrical,1,6,0,0
+21,Male,81,87,Electronics And Communication,0,6,0,0
+22,Male,80,71,Information Technology,0,8,1,1
+22,Male,96,72,Electronics And Communication,2,8,0,1
+22,Male,73,80,Mechanical,1,7,0,0
+22,Female,94,78,Information Technology,0,6,0,0
+21,Male,90,94,Electrical,0,7,0,1
+22,Male,93,94,Electronics And Communication,0,7,0,0
+22,Male,76,70,Computer Science,1,7,0,1
+21,Male,77,86,Computer Science,1,8,0,1
+21,Male,71,84,Computer Science,2,7,0,1
+22,Male,73,83,Information Technology,2,6,0,1
+21,Male,91,86,Information Technology,1,6,0,1
+22,Male,86,75,Civil,0,8,1,1
+22,Male,90,85,Mechanical,1,7,0,0
+21,Male,96,81,Computer Science,1,8,0,1
+21,Male,74,87,Mechanical,0,8,0,1
+21,Male,76,86,Electrical,2,7,1,1
+21,Female,89,68,Computer Science,0,6,0,1
+22,Male,92,94,Mechanical,1,6,0,0
+22,Male,93,82,Civil,0,6,0,0
+21,Male,82,67,Electronics And Communication,2,7,0,1
+22,Female,90,68,Information Technology,0,8,0,1
+22,Male,80,92,Electronics And Communication,0,6,0,0
+22,Female,82,81,Information Technology,1,6,0,1
+22,Male,79,85,Mechanical,1,7,0,0
+22,Male,89,93,Mechanical,1,6,0,0
+22,Male,91,78,Information Technology,0,8,0,1
+22,Male,87,81,Information Technology,0,8,0,1
+21,Male,85,71,Electrical,1,6,1,0
+22,Male,80,93,Computer Science,1,7,0,1
+21,Male,81,75,Computer Science,0,8,1,1
+21,Male,85,71,Information Technology,2,6,0,1
+21,Male,89,89,Electronics And Communication,1,8,1,1
+22,Male,90,81,Information Technology,0,8,0,1
+22,Female,82,81,Information Technology,0,8,0,1
+22,Male,90,83,Computer Science,0,6,1,1
+22,Male,85,72,Information Technology,1,8,0,1
+21,Male,96,75,Computer Science,0,6,1,0
+21,Male,94,73,Electrical,0,6,0,0
+22,Male,72,72,Information Technology,1,8,1,1
+22,Male,71,68,Mechanical,0,6,0,0
+21,Male,89,94,Information Technology,1,8,0,1
+22,Male,80,86,Electrical,1,7,0,0
+22,Male,87,94,Electronics And Communication,0,8,0,1
+21,Male,74,92,Information Technology,0,8,0,1
+21,Female,96,94,Computer Science,1,7,0,1
+22,Male,84,84,Information Technology,0,6,0,1
+22,Male,75,66,Information Technology,0,7,0,1
+22,Male,83,94,Civil,0,6,1,0
+22,Male,80,70,Information Technology,1,7,0,0
+21,Male,90,93,Electrical,1,8,0,1
+21,Female,85,84,Information Technology,2,7,0,1
+22,Male,79,88,Information Technology,3,8,0,1
+22,Male,74,92,Mechanical,0,7,1,0
+21,Female,82,66,Information Technology,1,6,0,0
+22,Male,84,82,Mechanical,1,7,1,0
+21,Male,93,94,Information Technology,1,6,0,0
+21,Male,74,70,Mechanical,0,8,0,1
+22,Male,94,67,Electrical,0,8,1,1
+21,Male,73,67,Information Technology,1,8,0,1
+21,Male,81,87,Computer Science,0,6,0,0
+22,Male,70,72,Information Technology,0,7,0,0
+21,Male,73,87,Mechanical,0,8,0,1
+21,Male,77,92,Information Technology,0,7,0,0
+21,Male,89,85,Electrical,0,6,0,0
+21,Male,74,68,Electronics And Communication,1,7,1,0
+21,Male,93,74,Civil,2,7,0,0
+22,Female,89,79,Civil,1,8,0,1
+22,Male,80,78,Information Technology,0,6,0,1
+22,Female,93,86,Information Technology,1,6,0,1
+22,Male,73,81,Civil,0,7,0,0
+21,Male,80,93,Computer Science,0,8,1,1
+22,Male,85,68,Information Technology,2,6,0,1
+21,Male,78,89,Civil,0,6,0,0
+21,Male,72,70,Civil,0,8,0,1
+21,Male,91,90,Computer Science,0,7,0,1
+21,Male,82,75,Civil,1,7,0,0
+21,Male,88,86,Civil,1,6,0,0
+21,Male,82,89,Information Technology,2,8,1,1
+21,Female,92,86,Mechanical,1,6,0,0
+22,Male,85,72,Information Technology,2,8,0,1
+21,Female,87,76,Civil,1,8,1,1
+22,Male,89,87,Information Technology,0,6,0,1
+22,Male,96,81,Electronics And Communication,0,7,0,0
+21,Male,85,90,Computer Science,1,8,0,1
+22,Male,71,70,Information Technology,2,7,0,1
+22,Male,74,92,Computer Science,1,7,0,1
+22,Male,86,68,Information Technology,1,7,1,1
+22,Male,72,94,Computer Science,1,7,0,1
+22,Male,95,73,Mechanical,1,7,1,0
+22,Female,76,87,Computer Science,1,7,0,0
+22,Male,92,67,Mechanical,0,7,0,0
+22,Male,70,86,Civil,0,8,0,1
+22,Male,90,66,Information Technology,2,7,1,1
+22,Male,95,83,Mechanical,0,7,0,0
+22,Male,73,91,Computer Science,0,6,0,1
+22,Male,87,86,Electronics And Communication,0,8,0,1
+22,Male,92,76,Computer Science,1,8,0,1
+22,Male,96,69,Computer Science,1,6,0,1
+22,Male,77,73,Computer Science,2,7,0,1
+21,Male,83,77,Computer Science,1,8,0,1
+21,Male,96,77,Information Technology,0,7,1,1
+22,Male,71,87,Computer Science,0,7,0,1
+22,Female,76,88,Information Technology,0,8,0,1
+22,Male,75,74,Information Technology,0,7,0,1
+22,Male,79,85,Computer Science,0,8,0,1
+21,Male,84,80,Civil,1,8,0,1
+21,Male,79,66,Mechanical,0,7,0,0
+21,Male,76,91,Information Technology,1,6,0,1
+21,Male,75,79,Information Technology,1,8,0,1
+21,Male,73,89,Mechanical,0,7,0,0
+22,Male,70,83,Computer Science,1,7,0,1
+21,Male,81,71,Computer Science,1,7,0,1
+22,Male,87,94,Mechanical,1,8,0,1
+22,Male,84,67,Information Technology,1,8,0,1
+21,Male,92,77,Information Technology,0,6,1,1
+21,Male,72,72,Information Technology,0,7,1,1
+22,Male,96,83,Information Technology,2,8,0,1
+22,Male,95,67,Electrical,0,8,1,1
+22,Male,70,76,Mechanical,0,7,0,0
+22,Female,77,71,Electronics And Communication,1,6,0,0
+21,Male,84,82,Mechanical,0,8,0,1
+21,Male,72,72,Electrical,0,7,0,0
+22,Male,73,73,Electronics And Communication,1,6,0,0
+21,Male,77,72,Civil,0,8,0,1
+21,Male,77,69,Civil,0,8,0,1
+22,Male,96,72,Computer Science,1,7,0,1
+21,Male,77,79,Mechanical,1,6,0,0
+21,Male,85,66,Information Technology,0,6,1,1
+22,Female,75,68,Computer Science,0,8,0,1
+21,Female,74,69,Computer Science,0,7,0,0
+22,Male,73,78,Civil,0,8,0,1
+22,Male,82,93,Computer Science,1,8,1,1
+22,Male,84,79,Civil,0,6,1,0
+22,Male,91,70,Mechanical,0,7,0,0
+21,Male,86,85,Electronics And Communication,1,7,1,1
+22,Male,78,91,Information Technology,0,8,0,1
+22,Male,87,70,Computer Science,0,6,0,1
+22,Male,70,89,Information Technology,1,8,0,1
+21,Male,80,73,Electronics And Communication,1,7,0,0
+22,Female,96,86,Computer Science,1,8,0,1
+22,Female,90,81,Computer Science,2,7,0,1
+22,Male,86,70,Electrical,0,6,0,0
+22,Male,75,76,Mechanical,0,6,0,0
+22,Male,80,85,Computer Science,2,7,0,1
+22,Male,73,86,Mechanical,0,7,0,0
+22,Male,81,73,Computer Science,1,7,0,1
+21,Male,83,91,Information Technology,1,6,1,1
+21,Male,79,69,Information Technology,1,6,1,1
+22,Female,89,66,Information Technology,1,7,0,1
+21,Male,83,74,Information Technology,2,8,1,1
+21,Male,76,94,Civil,0,6,0,0
+21,Male,83,94,Information Technology,0,6,0,1
+22,Male,89,69,Information Technology,2,8,0,1
+22,Male,79,82,Information Technology,1,8,0,1
+21,Female,96,80,Computer Science,1,8,1,1
+22,Male,90,93,Computer Science,1,7,0,1
+22,Male,95,91,Electrical,2,6,0,1
+21,Male,89,76,Civil,1,7,0,0
+21,Male,80,93,Information Technology,2,7,1,1
+22,Male,84,93,Information Technology,2,7,1,1
+21,Male,75,67,Electronics And Communication,1,6,1,0
+21,Male,86,87,Mechanical,1,8,1,1
+22,Male,94,94,Information Technology,1,8,0,1
+22,Male,92,74,Information Technology,2,6,1,1
+21,Male,72,79,Computer Science,1,6,1,0
+22,Male,96,83,Information Technology,2,7,0,1
+22,Male,72,67,Information Technology,1,8,0,1
+21,Male,95,78,Information Technology,2,7,1,1
+21,Male,94,93,Electrical,2,8,0,1
+22,Male,83,87,Civil,2,8,1,1
+22,Male,71,73,Information Technology,2,6,0,1
+22,Male,90,91,Information Technology,2,6,0,1
+21,Female,75,89,Civil,2,7,0,0
+22,Male,74,74,Electrical,1,7,1,0
+22,Male,94,67,Civil,2,7,0,0
+21,Male,82,83,Information Technology,2,8,0,1
+21,Male,90,77,Civil,1,6,0,0
+22,Female,85,70,Computer Science,2,6,0,1
+21,Female,91,72,Electronics And Communication,1,7,0,1
+22,Female,71,67,Information Technology,1,7,1,1
+21,Male,92,92,Mechanical,2,6,0,1
+22,Male,84,75,Mechanical,2,6,0,1
+21,Male,70,70,Information Technology,2,7,0,1
+22,Male,95,93,Computer Science,2,7,0,1
+21,Male,82,94,Electrical,1,6,0,0
+21,Female,75,77,Computer Science,1,6,0,1
+22,Male,72,85,Civil,2,6,0,1
+22,Male,94,85,Computer Science,1,7,0,1
+21,Male,74,82,Information Technology,1,8,0,1
+21,Male,71,82,Computer Science,2,7,0,1
+22,Female,82,69,Mechanical,1,6,0,0
+22,Female,72,84,Information Technology,1,8,0,1
+22,Male,79,66,Mechanical,1,6,0,0
+21,Male,70,93,Computer Science,1,8,1,1
+21,Male,80,73,Computer Science,2,8,1,1
+22,Male,89,69,Information Technology,2,8,0,1
+22,Male,78,92,Mechanical,1,7,0,0
+22,Male,73,93,Computer Science,2,7,0,0
+21,Male,90,85,Computer Science,2,8,0,1
+22,Male,90,66,Mechanical,1,7,0,0
+21,Male,89,91,Computer Science,2,7,0,1
+22,Male,92,93,Civil,1,6,0,0
+22,Male,88,71,Civil,2,8,1,1
+21,Male,93,68,Electrical,2,7,0,1
+21,Female,90,68,Computer Science,1,6,1,0
+22,Male,87,89,Computer Science,1,6,1,0
+22,Male,96,77,Electrical,2,7,0,0
+22,Female,92,91,Electronics And Communication,1,7,1,0
+22,Male,80,73,Civil,1,7,0,0
+21,Male,77,92,Electronics And Communication,2,6,0,1
+21,Female,94,87,Electrical,2,8,0,1
+22,Male,83,73,Computer Science,2,8,0,1
+22,Female,92,67,Electronics And Communication,2,6,0,1
+22,Male,83,92,Computer Science,1,7,0,0
+21,Female,76,84,Electronics And Communication,1,8,1,1
+22,Male,90,85,Electronics And Communication,1,7,0,0
+21,Male,73,92,Mechanical,2,8,1,1
+21,Male,83,67,Electronics And Communication,1,8,0,1
+22,Female,81,85,Electrical,2,7,0,0
+21,Male,78,68,Civil,2,7,0,0
+22,Male,73,74,Information Technology,1,7,0,0
+22,Female,88,79,Electrical,2,6,0,1
+22,Male,73,91,Electronics And Communication,2,6,0,1
+22,Male,71,91,Computer Science,1,6,0,0
+21,Male,78,72,Computer Science,1,8,0,1
+22,Male,70,84,Electronics And Communication,2,6,0,1
+21,Male,71,88,Information Technology,1,7,0,0
+21,Male,86,77,Information Technology,2,7,1,0
+21,Female,90,77,Computer Science,2,7,1,0
+21,Male,83,86,Computer Science,2,8,0,1
+22,Male,91,78,Information Technology,1,7,0,0
+21,Male,87,83,Civil,2,7,0,0
+21,Female,90,93,Computer Science,2,8,0,1
+22,Male,96,72,Mechanical,1,6,0,0
+22,Male,89,87,Mechanical,1,7,0,0
+22,Male,92,83,Information Technology,1,6,0,0
+21,Male,89,77,Electrical,1,6,0,0
+21,Male,84,81,Mechanical,1,6,0,0
+22,Male,75,86,Electrical,1,6,0,0
+22,Male,72,72,Mechanical,2,8,0,1
+22,Male,85,93,Information Technology,1,7,0,0
+22,Male,94,67,Civil,1,6,0,0
+21,Male,94,74,Information Technology,1,7,1,0
+21,Female,74,86,Computer Science,2,8,0,1
+22,Male,74,71,Electronics And Communication,2,7,0,0
+22,Male,79,82,Electronics And Communication,2,7,1,0
+22,Male,84,80,Mechanical,1,8,0,1
+22,Male,79,74,Computer Science,1,6,0,0
+22,Male,90,67,Electronics And Communication,1,7,1,0
+22,Male,75,78,Electronics And Communication,1,8,1,1
+21,Female,89,86,Electrical,1,8,1,1
+22,Female,79,77,Computer Science,1,7,0,0
+22,Female,83,77,Information Technology,1,9,0,1
+21,Male,84,70,Mechanical,2,8,0,1
+21,Male,86,82,Electronics And Communication,2,7,1,1
+22,Male,89,89,Civil,2,7,0,0
+21,Male,90,69,Information Technology,2,9,0,1
+21,Male,88,89,Civil,2,7,1,0
+22,Male,82,86,Information Technology,1,9,0,1
+22,Male,71,80,Computer Science,1,7,1,0
+21,Female,93,71,Computer Science,2,7,0,1
+21,Male,93,75,Information Technology,1,9,0,1
+21,Male,84,90,Computer Science,1,8,0,1
+22,Male,94,74,Mechanical,1,9,0,1
+21,Male,71,68,Computer Science,2,9,0,1
+21,Female,71,78,Electronics And Communication,2,9,0,1
+21,Male,78,69,Electronics And Communication,1,8,0,1
+22,Male,87,83,Computer Science,1,9,0,1
+21,Male,82,91,Electrical,1,8,1,1
+21,Male,77,71,Electronics And Communication,2,8,0,1
+22,Male,95,76,Information Technology,2,8,0,1
+21,Male,96,83,Mechanical,2,9,0,1
+21,Male,80,71,Electrical,2,7,1,1
+21,Male,70,82,Mechanical,1,9,1,1
+22,Female,91,85,Electrical,2,8,0,1
+21,Male,89,79,Civil,2,9,0,1
+22,Male,88,89,Mechanical,1,9,0,1
+21,Female,91,84,Information Technology,2,9,0,1
+22,Female,81,80,Electronics And Communication,1,8,1,1
+22,Male,77,86,Electronics And Communication,1,8,0,1
+22,Male,89,89,Electronics And Communication,2,9,0,1
+21,Male,70,85,Information Technology,1,8,0,1
+22,Female,77,74,Civil,1,8,0,1
+21,Female,90,82,Civil,1,7,0,0
+21,Female,94,66,Electrical,1,9,0,1
+22,Male,91,92,Computer Science,1,9,0,1
+22,Female,71,80,Information Technology,2,8,0,1
+22,Male,74,89,Civil,2,9,1,1
+21,Male,96,68,Mechanical,1,7,0,0
+22,Male,95,71,Information Technology,2,7,0,0
+22,Male,77,90,Civil,2,8,0,1
+22,Male,79,68,Computer Science,2,7,1,0
+21,Male,74,80,Information Technology,1,9,0,1
+22,Male,73,94,Computer Science,1,8,0,1
+22,Male,84,84,Civil,1,7,0,0
+21,Female,96,84,Computer Science,2,8,0,1
+21,Male,73,68,Civil,2,7,0,1
+22,Male,77,66,Electronics And Communication,2,8,0,1
+22,Male,94,77,Mechanical,1,7,0,0
+21,Male,83,66,Electrical,1,7,0,1
+22,Male,79,87,Electrical,2,8,0,1
+22,Male,93,92,Electrical,1,8,1,1
+21,Female,90,70,Computer Science,1,8,0,1
+21,Male,82,73,Mechanical,1,7,0,0
+21,Male,83,66,Information Technology,1,9,0,1
+22,Male,87,74,Electrical,0,9,0,1
+21,Female,82,86,Information Technology,0,9,0,1
+21,Male,72,81,Electronics And Communication,0,8,0,1
+21,Female,96,81,Computer Science,1,9,0,1
+22,Male,83,75,Information Technology,1,7,0,0
+21,Male,81,66,Mechanical,1,8,1,1
+21,Male,74,78,Mechanical,0,9,1,1
+22,Male,73,72,Information Technology,0,7,0,0
+21,Male,71,75,Information Technology,0,8,0,1
+22,Male,78,69,Civil,0,8,0,1
+21,Male,91,79,Mechanical,0,8,0,1
+22,Female,76,75,Computer Science,0,9,1,1
+22,Female,72,71,Information Technology,1,8,0,1
+21,Male,76,79,Mechanical,0,7,0,0
+21,Male,73,87,Electrical,0,7,0,0
+22,Male,73,67,Mechanical,0,9,0,1
+22,Male,89,92,Information Technology,1,7,0,0
+22,Male,90,71,Mechanical,2,9,0,1
+21,Male,72,84,Electrical,0,8,0,1
+21,Male,83,86,Information Technology,1,8,0,1
+22,Male,81,91,Information Technology,1,9,0,1
+22,Female,74,79,Computer Science,0,9,0,1
+21,Male,91,79,Civil,1,9,0,1
+22,Female,86,87,Information Technology,2,8,0,1
+21,Male,85,89,Information Technology,1,9,0,1
+22,Male,79,81,Civil,0,9,1,1
+21,Male,96,90,Electrical,0,8,0,1
+22,Male,79,69,Computer Science,1,9,0,1
+22,Male,76,79,Electrical,0,8,0,1
+21,Male,89,72,Electronics And Communication,1,8,0,1
+21,Male,86,88,Electrical,0,8,0,1
+21,Male,74,85,Civil,0,9,1,1
+21,Male,70,89,Computer Science,1,9,0,1
+21,Male,73,69,Civil,0,9,0,1
+21,Female,78,93,Information Technology,1,8,0,1
+21,Male,86,66,Civil,1,7,0,0
+21,Male,72,90,Computer Science,1,9,0,1
+22,Male,92,71,Electronics And Communication,0,9,0,1
+22,Male,90,90,Electronics And Communication,1,7,1,0
+21,Female,77,89,Electrical,1,8,0,1
+21,Male,93,66,Information Technology,1,8,0,1
+22,Male,78,92,Information Technology,1,8,0,1
+22,Female,76,87,Electrical,1,7,1,0
+21,Male,70,85,Computer Science,1,7,0,0
+22,Male,73,69,Computer Science,1,9,0,1
+21,Male,78,91,Computer Science,2,9,0,1
+22,Female,81,89,Computer Science,0,9,1,1
+21,Male,89,73,Information Technology,0,7,0,1
+22,Male,89,68,Mechanical,0,8,0,1
+22,Male,91,79,Computer Science,2,8,0,1
+21,Male,76,77,Electronics And Communication,0,8,0,1
+21,Male,91,83,Mechanical,1,9,0,1
+22,Female,74,85,Information Technology,1,9,0,1
+21,Male,70,91,Mechanical,0,9,0,1
+21,Male,83,91,Civil,0,9,0,1
+21,Male,87,67,Civil,0,7,0,0
+21,Male,74,80,Information Technology,0,9,0,1
+21,Male,72,90,Information Technology,0,9,0,1
+21,Male,76,75,Mechanical,1,7,0,0
+21,Male,73,94,Electronics And Communication,1,8,1,1
+21,Male,91,87,Mechanical,1,9,0,1
+22,Male,92,79,Computer Science,1,8,0,1
+22,Male,79,81,Computer Science,1,8,1,1
+22,Male,85,91,Information Technology,1,9,0,1
+22,Male,96,74,Electronics And Communication,0,7,0,0
+21,Female,72,79,Electronics And Communication,1,7,0,1
+21,Male,96,79,Electronics And Communication,1,8,1,1
+22,Male,71,91,Mechanical,0,9,0,1
+22,Male,80,78,Computer Science,1,9,0,1
+22,Male,95,82,Mechanical,0,7,0,0
+21,Male,87,82,Information Technology,0,7,0,1
+22,Male,71,78,Mechanical,1,9,0,1
+22,Male,91,72,Electrical,0,9,0,1
+21,Male,81,84,Computer Science,2,9,1,1
+22,Male,93,89,Computer Science,3,9,0,1
+22,Male,84,91,Mechanical,0,9,1,1
+21,Male,83,91,Information Technology,2,9,0,1
+21,Male,81,74,Mechanical,1,7,0,0
+21,Male,91,73,Electrical,1,7,0,1
+22,Male,78,90,Information Technology,0,9,0,1
+22,Female,76,93,Mechanical,1,7,0,0
+22,Male,92,80,Civil,0,7,0,0
+21,Female,90,80,Electronics And Communication,1,8,0,1
+22,Female,74,92,Information Technology,0,9,0,1
+22,Male,93,72,Mechanical,0,9,0,1
+22,Male,86,84,Mechanical,0,8,0,1
+21,Male,76,86,Computer Science,0,9,0,1
+21,Male,84,89,Information Technology,1,7,0,0
+21,Male,70,85,Electrical,2,8,1,1
+21,Male,91,91,Computer Science,1,9,0,1
+22,Male,72,85,Electrical,1,9,0,1
+22,Male,81,68,Information Technology,0,7,0,1
+22,Female,94,79,Information Technology,1,9,0,1
+21,Male,93,91,Mechanical,1,8,0,1
+22,Female,71,89,Computer Science,0,8,0,1
+21,Male,95,68,Civil,0,7,0,0
+21,Male,72,85,Computer Science,0,7,1,0
+22,Male,95,93,Information Technology,0,7,1,0
+21,Male,82,74,Computer Science,0,9,0,1
+21,Male,94,77,Mechanical,0,9,1,1
+22,Male,88,85,Mechanical,2,9,0,1
+21,Male,84,88,Civil,2,8,0,1
+21,Male,73,88,Electrical,0,8,0,1
+21,Female,78,71,Electrical,1,8,1,1
+22,Male,79,80,Electronics And Communication,1,7,0,0
+22,Female,85,75,Electronics And Communication,1,8,1,1
+21,Male,70,83,Computer Science,1,8,0,1
+22,Male,71,88,Computer Science,0,7,1,0
+22,Male,92,78,Computer Science,0,9,0,1
+21,Male,77,87,Electrical,0,8,0,1
+21,Female,70,73,Electrical,1,8,0,1
+21,Male,91,87,Electronics And Communication,1,7,0,0
+22,Female,89,77,Mechanical,1,7,0,0
+22,Female,72,80,Computer Science,1,7,0,0
+21,Female,80,87,Mechanical,1,8,0,1
+21,Male,93,81,Electronics And Communication,0,8,0,1
+21,Female,87,83,Electronics And Communication,1,9,0,1
+21,Male,88,78,Electronics And Communication,0,9,0,1
+22,Male,81,68,Computer Science,1,8,0,1
+22,Male,74,76,Information Technology,0,7,0,0
+21,Male,79,69,Mechanical,0,9,0,1
+22,Male,73,94,Mechanical,0,8,0,1
+21,Male,89,87,Information Technology,0,8,0,1
+22,Male,71,89,Mechanical,0,7,0,0
+22,Male,80,76,Information Technology,1,8,0,1
+22,Male,88,73,Information Technology,0,8,0,1
+21,Female,71,94,Information Technology,0,8,0,1
+21,Male,71,71,Mechanical,0,7,0,0
+21,Male,93,76,Electronics And Communication,0,8,0,1
+22,Male,79,71,Computer Science,0,9,0,1
+22,Male,94,83,Civil,1,7,0,0
+22,Male,94,74,Mechanical,2,7,0,0
+21,Male,92,69,Computer Science,1,9,0,1
+21,Male,70,72,Information Technology,0,9,0,1
+22,Male,76,78,Civil,0,7,1,0
+21,Male,82,68,Information Technology,1,8,0,1
+21,Male,94,77,Electronics And Communication,0,8,0,1
+21,Male,80,85,Electrical,0,9,0,1
+21,Male,89,83,Electronics And Communication,0,8,0,1
+22,Male,92,66,Information Technology,1,9,0,1
+22,Male,75,87,Mechanical,0,9,0,1
+22,Male,89,91,Computer Science,0,7,0,0
+21,Male,93,66,Information Technology,1,8,1,1
+21,Male,87,67,Information Technology,0,7,0,0
+21,Male,95,82,Electrical,0,7,0,0
+22,Male,82,84,Computer Science,1,8,0,1
+21,Male,93,87,Electronics And Communication,0,9,0,1
+25,Male,78,91,Information Technology,0,7,0,1
+26,Male,86,80,Electrical,0,7,0,0
+24,Male,80,82,Information Technology,1,6,1,1
+25,Male,92,70,Electronics And Communication,0,6,0,1
+26,Female,95,77,Computer Science,0,7,0,0
+26,Male,82,92,Computer Science,1,7,0,1
+26,Male,95,82,Computer Science,1,6,0,1
+26,Male,71,69,Information Technology,2,7,0,1
+24,Female,95,86,Computer Science,1,7,0,0
+26,Female,70,74,Civil,1,6,1,1
+26,Male,82,94,Computer Science,0,6,1,1
+26,Male,73,84,Computer Science,1,7,0,0
+26,Male,84,88,Information Technology,1,7,0,0
+26,Male,89,67,Mechanical,0,7,1,0
+26,Male,95,73,Electrical,0,6,0,1
+25,Male,92,85,Information Technology,1,7,0,0
+26,Male,84,69,Mechanical,0,6,0,1
+24,Male,92,94,Electronics And Communication,1,7,1,0
+26,Male,93,84,Electronics And Communication,0,6,0,1
+26,Male,73,82,Computer Science,0,6,0,1
+24,Female,96,75,Computer Science,0,6,1,1
+24,Male,84,67,Computer Science,0,6,1,1
+24,Male,70,93,Electrical,1,7,0,1
+25,Male,91,91,Mechanical,0,7,0,0
+25,Male,82,68,Computer Science,0,6,0,1
+25,Male,79,90,Computer Science,0,7,0,0
+26,Male,74,72,Mechanical,1,6,0,1
+26,Male,79,69,Computer Science,1,7,0,0
+26,Male,87,93,Computer Science,0,6,1,1
+26,Male,73,83,Electronics And Communication,1,7,1,0
+25,Female,80,70,Computer Science,0,7,0,0
+25,Male,73,76,Computer Science,2,6,0,1
+25,Male,93,66,Mechanical,0,7,0,0
+26,Male,82,87,Civil,0,7,0,0
+25,Female,80,83,Computer Science,1,7,0,1
+26,Male,72,72,Information Technology,1,6,0,1
+26,Female,96,66,Computer Science,0,7,0,1
+26,Female,79,66,Information Technology,0,7,0,1
+26,Male,95,76,Computer Science,1,6,0,1
+26,Female,73,79,Information Technology,0,7,0,0
+24,Male,92,82,Information Technology,1,7,0,0
+24,Male,90,90,Civil,0,6,0,1
+25,Male,89,78,Electronics And Communication,1,6,0,1
+26,Male,72,81,Mechanical,0,7,0,0
+26,Male,73,85,Mechanical,1,6,1,1
+25,Male,91,85,Computer Science,1,7,0,1
+26,Male,89,71,Computer Science,1,7,0,1
+25,Male,77,75,Computer Science,2,7,1,1
+25,Male,92,68,Computer Science,2,7,1,1
+24,Male,84,75,Computer Science,0,6,0,1
+26,Male,94,75,Electrical,0,6,0,1
+24,Male,85,80,Information Technology,0,7,0,1
+26,Male,78,81,Computer Science,1,7,0,1
+26,Male,87,84,Mechanical,1,7,1,0
+24,Male,87,77,Computer Science,1,7,0,1
+26,Female,83,88,Information Technology,0,6,0,1
+25,Female,78,88,Computer Science,0,6,1,1
+25,Male,78,80,Mechanical,1,6,0,1
+26,Male,89,74,Computer Science,1,6,0,1
+25,Female,94,85,Electronics And Communication,0,6,0,1
+22,Male,81,89,Civil,1,6,0,0
+21,Female,75,90,Electrical,0,6,0,0
+22,Male,82,88,Computer Science,1,7,0,0
+21,Male,78,77,Mechanical,0,6,0,0
+21,Female,91,68,Information Technology,0,7,0,0
+22,Male,96,77,Computer Science,1,7,0,0
+21,Female,87,87,Information Technology,1,7,1,0
+22,Male,76,88,Electrical,0,6,0,0
+21,Male,96,68,Information Technology,0,7,0,0
+22,Male,90,91,Information Technology,0,7,0,0
+21,Male,75,89,Information Technology,0,7,1,0
+21,Female,71,81,Information Technology,1,7,0,0
+22,Male,89,89,Electronics And Communication,1,7,0,0
+22,Male,89,83,Electronics And Communication,1,6,1,0
+21,Male,89,82,Electrical,1,7,0,1
+22,Male,96,79,Information Technology,1,6,0,0
+21,Male,90,84,Computer Science,1,6,0,0
+21,Male,80,90,Information Technology,1,6,0,0
+21,Male,90,78,Information Technology,0,7,1,0
+22,Male,74,85,Information Technology,0,6,0,0
+21,Male,78,94,Electronics And Communication,0,7,0,1
+22,Female,90,74,Electrical,1,6,1,0
+21,Male,96,76,Computer Science,1,7,0,0
+21,Female,70,85,Information Technology,0,7,0,0
+21,Male,83,74,Electronics And Communication,1,6,1,0
+22,Female,82,89,Information Technology,3,7,1,0
+21,Female,74,91,Computer Science,1,6,0,0
+21,Male,80,85,Mechanical,0,7,0,0
+21,Male,96,74,Computer Science,1,8,0,1
+22,Female,83,82,Information Technology,0,8,0,1
+22,Female,72,70,Information Technology,1,8,0,1
+21,Male,72,77,Electronics And Communication,1,7,1,0
+21,Male,73,72,Information Technology,1,6,0,0
+21,Female,93,77,Information Technology,1,8,0,1
+22,Male,84,73,Mechanical,0,8,0,1
+22,Male,73,79,Mechanical,0,7,1,0
+22,Male,72,84,Information Technology,2,8,0,1
+22,Female,91,87,Computer Science,0,6,1,0
+21,Male,85,67,Information Technology,2,6,0,1
+22,Male,82,75,Electrical,0,8,1,1
+22,Male,76,73,Civil,1,7,0,0
+22,Female,76,67,Civil,1,6,1,0
+22,Male,70,91,Information Technology,3,8,0,1
+21,Male,82,72,Electronics And Communication,1,7,0,0
+22,Male,85,78,Mechanical,0,6,0,0
+22,Male,78,68,Civil,0,8,1,1
+22,Male,80,77,Civil,0,7,1,0
+21,Female,95,68,Computer Science,0,8,1,1
+22,Male,85,87,Information Technology,1,6,0,0
+22,Male,73,71,Mechanical,0,6,0,0
+21,Male,94,71,Computer Science,2,6,0,1
+22,Male,75,77,Information Technology,0,8,1,1
+22,Male,94,78,Civil,0,6,0,0
+22,Female,90,83,Mechanical,1,8,0,1
+21,Male,80,81,Civil,2,7,1,0
+21,Male,96,67,Mechanical,0,7,0,0
+21,Male,87,89,Information Technology,0,6,1,0
+21,Male,81,74,Mechanical,0,6,1,0
+22,Male,85,76,Information Technology,0,7,1,0
+22,Male,71,91,Electronics And Communication,1,8,0,1
+21,Male,96,86,Information Technology,2,8,0,1
+22,Male,82,71,Electronics And Communication,1,7,0,0
+22,Male,78,78,Computer Science,1,8,0,1
+22,Male,72,71,Computer Science,1,7,0,0
+21,Male,84,85,Electronics And Communication,0,8,1,1
+22,Male,79,74,Mechanical,0,8,0,1
+21,Male,94,84,Computer Science,0,7,1,0
+22,Male,79,79,Electronics And Communication,0,7,0,0
+22,Female,95,80,Electronics And Communication,3,6,0,1
+21,Male,77,86,Electrical,0,8,0,1
+21,Female,96,81,Electronics And Communication,2,7,0,1
+21,Male,92,71,Electrical,0,7,0,0
+21,Male,75,69,Electrical,0,6,0,0
+22,Male,88,87,Computer Science,2,7,0,0
+22,Male,76,88,Information Technology,1,8,0,1
+21,Male,86,93,Electronics And Communication,0,7,0,0
+22,Male,95,76,Computer Science,0,6,0,0
+21,Male,73,69,Civil,2,8,0,1
+21,Male,75,87,Information Technology,1,6,0,0
+21,Female,85,75,Information Technology,0,6,0,0
+21,Male,84,77,Information Technology,0,7,1,0
+22,Male,77,92,Information Technology,1,6,0,0
+22,Female,87,76,Computer Science,1,6,0,0
+21,Male,86,83,Electrical,1,7,0,1
+28,Female,91,82,Computer Science,3,8,0,1
+21,Male,81,70,Computer Science,0,7,1,0
+22,Male,83,76,Information Technology,0,7,1,0
+21,Female,95,78,Computer Science,0,6,0,0
+22,Female,88,66,Electronics And Communication,0,8,0,1
+22,Male,93,68,Computer Science,1,6,0,0
+21,Male,73,86,Electrical,0,8,0,1
+21,Male,79,76,Information Technology,2,8,0,1
+22,Male,72,76,Computer Science,0,8,1,1
+22,Female,70,66,Electrical,1,8,0,1
+22,Female,72,88,Computer Science,0,6,0,0
+21,Male,82,71,Computer Science,1,6,0,0
+22,Male,71,70,Electronics And Communication,0,6,0,0
+21,Male,91,94,Electronics And Communication,1,6,0,0
+21,Male,86,85,Computer Science,0,7,0,0
+22,Male,87,87,Mechanical,0,6,0,0
+22,Male,74,90,Computer Science,1,8,0,1
+21,Male,90,90,Civil,0,8,0,1
+22,Male,80,77,Computer Science,1,8,0,1
+22,Male,77,67,Information Technology,0,7,0,0
+22,Male,92,90,Mechanical,1,7,1,0
+21,Male,95,79,Information Technology,1,6,0,0
+22,Male,81,75,Information Technology,2,8,0,1
+21,Male,83,91,Information Technology,1,8,0,1
+21,Male,86,83,Electrical,0,6,0,0
+22,Male,84,68,Information Technology,1,7,0,0
+21,Male,84,69,Information Technology,0,7,0,0
+21,Male,89,68,Electrical,0,8,0,1
+21,Male,76,74,Mechanical,0,7,0,0
+21,Male,81,87,Electronics And Communication,0,6,0,0
+22,Female,95,69,Information Technology,0,7,0,0
+22,Male,75,72,Mechanical,1,8,0,1
+22,Male,95,68,Computer Science,3,6,0,1
+21,Male,95,85,Electronics And Communication,1,6,0,0
+22,Male,96,82,Electronics And Communication,0,7,0,0
+21,Male,89,73,Computer Science,2,7,0,1
+22,Male,78,79,Electrical,0,6,0,0
+21,Male,90,72,Computer Science,0,6,0,0
+22,Male,88,90,Electronics And Communication,1,6,0,0
+22,Male,78,91,Information Technology,1,8,0,1
+22,Female,95,74,Civil,1,8,1,1
+22,Male,70,79,Computer Science,3,6,1,0
+21,Male,74,69,Information Technology,0,6,0,0
+22,Male,94,86,Civil,0,8,0,1
+22,Male,87,85,Electronics And Communication,1,6,0,0
+22,Female,70,94,Civil,1,6,0,0
+21,Male,90,83,Information Technology,0,8,0,1
+21,Male,80,83,Computer Science,1,7,0,0
+22,Male,73,93,Information Technology,1,8,0,1
+21,Male,92,78,Computer Science,0,7,0,0
+21,Male,74,74,Electrical,0,8,0,1
+21,Male,74,71,Information Technology,0,7,0,0
+21,Male,82,93,Electrical,2,8,1,1
+22,Female,96,67,Computer Science,1,6,0,0
+21,Female,80,76,Computer Science,1,7,0,0
+22,Male,91,92,Information Technology,1,8,0,1
+24,Male,75,92,Computer Science,1,8,0,1
+24,Male,75,84,Computer Science,1,6,1,1
+22,Male,74,80,Information Technology,1,6,0,1
+24,Male,92,75,Computer Science,1,7,0,1
+24,Male,80,90,Computer Science,1,7,0,1
+24,Male,76,84,Computer Science,1,7,0,1
+24,Female,78,83,Information Technology,1,6,0,1
+24,Male,91,84,Computer Science,0,8,0,1
+20,Female,90,93,Electrical,1,7,1,0
+21,Male,89,70,Computer Science,1,7,0,1
+23,Male,77,81,Electronics And Communication,0,7,0,0
+22,Female,80,68,Computer Science,1,8,0,1
+23,Male,94,66,Computer Science,1,7,0,1
+23,Male,82,70,Electrical,2,7,0,0
+22,Female,84,85,Computer Science,2,7,1,1
+24,Male,81,81,Computer Science,1,6,0,1
+22,Male,87,77,Information Technology,2,7,0,0
+24,Male,94,88,Computer Science,0,6,0,1
+22,Male,90,86,Information Technology,0,6,0,0
+23,Male,72,81,Mechanical,0,7,0,0
+22,Male,81,94,Electrical,1,7,0,0
+23,Male,90,80,Electronics And Communication,1,6,1,1
+23,Male,73,85,Electrical,0,8,1,1
+20,Male,90,68,Electrical,1,8,0,1
+24,Male,74,81,Mechanical,0,7,0,0
+24,Male,77,89,Computer Science,2,6,0,1
+20,Male,90,88,Computer Science,1,6,0,0
+24,Male,80,72,Mechanical,0,6,0,1
+22,Female,91,92,Electrical,1,7,0,0
+20,Male,95,83,Civil,1,6,0,0
+23,Male,83,76,Electronics And Communication,1,6,1,1
+23,Male,95,88,Mechanical,0,6,0,0
+22,Male,84,72,Computer Science,1,6,0,0
+22,Male,88,86,Mechanical,1,7,0,0
+23,Male,82,75,Computer Science,0,7,0,0
+22,Male,88,88,Computer Science,1,8,0,1
+20,Male,88,80,Computer Science,0,8,1,1
+20,Female,80,74,Computer Science,1,7,0,1
+21,Male,89,93,Electrical,0,7,0,1
+23,Male,87,88,Computer Science,1,7,0,0
+21,Female,70,90,Information Technology,1,8,0,1
+21,Male,83,70,Mechanical,0,6,0,0
+20,Male,91,80,Civil,0,8,0,1
+23,Female,76,71,Computer Science,0,7,1,0
+21,Male,87,78,Electronics And Communication,0,8,1,1
+24,Male,88,87,Electronics And Communication,1,7,0,0
+21,Male,76,86,Electronics And Communication,1,6,0,0
+21,Male,96,66,Electrical,0,8,0,1
+22,Male,78,68,Computer Science,0,6,1,0
+20,Male,80,84,Computer Science,2,7,0,0
+21,Male,83,76,Computer Science,0,7,0,1
+20,Male,73,78,Information Technology,0,6,0,0
+23,Male,75,75,Information Technology,0,8,0,1
+22,Male,81,87,Computer Science,0,7,0,0
+21,Male,89,81,Information Technology,0,8,0,1
+21,Male,79,92,Mechanical,0,6,0,1
+24,Male,71,76,Information Technology,0,8,0,1
+23,Male,95,90,Electronics And Communication,1,6,0,0
+22,Male,86,91,Computer Science,0,7,0,1
+20,Male,87,67,Mechanical,0,6,1,0
+24,Male,92,91,Mechanical,0,7,0,1
+21,Male,83,79,Information Technology,0,8,1,1
+23,Male,81,87,Computer Science,2,7,1,1
+23,Male,94,93,Mechanical,1,7,0,1
+23,Male,93,74,Civil,0,8,0,1
+22,Male,76,72,Electronics And Communication,1,7,0,0
+24,Male,84,83,Mechanical,1,8,0,1
+21,Female,94,92,Computer Science,0,8,1,1
+22,Male,81,66,Computer Science,0,6,1,0
+22,Male,89,70,Electronics And Communication,0,6,0,1
+23,Male,75,71,Electrical,0,6,0,0
+20,Male,73,69,Computer Science,1,7,0,1
+22,Male,77,87,Computer Science,1,8,0,1
+20,Male,80,91,Electronics And Communication,0,8,0,1
+23,Male,79,76,Computer Science,1,7,0,0
+21,Male,81,75,Information Technology,1,7,0,1
+24,Male,77,91,Civil,0,8,0,1
+21,Male,95,87,Information Technology,0,8,0,1
+21,Male,95,71,Electrical,2,6,1,1
+20,Female,73,90,Information Technology,0,6,0,0
+23,Male,92,67,Computer Science,1,6,0,0
+20,Male,92,76,Civil,2,5,0,0
+21,Male,85,80,Mechanical,1,5,0,0
+23,Female,96,82,Information Technology,1,6,0,0
+24,Female,77,69,Electronics And Communication,0,5,0,0
+22,Male,90,90,Civil,1,6,0,0
+24,Male,80,94,Computer Science,1,5,0,0
+23,Female,82,73,Computer Science,0,5,1,0
+23,Male,83,87,Information Technology,0,5,1,0
+23,Male,74,67,Information Technology,0,5,0,0
+22,Male,95,94,Civil,2,6,0,0
+24,Male,95,70,Information Technology,0,6,0,1
+22,Male,81,90,Civil,0,6,0,1
+24,Male,76,93,Computer Science,1,6,0,1
+20,Male,90,84,Computer Science,1,5,0,0
+20,Male,74,73,Computer Science,2,5,0,0
+24,Male,92,74,Mechanical,0,5,1,0
+24,Male,72,81,Civil,0,5,0,0
+21,Male,79,84,Information Technology,0,5,0,0
+23,Male,79,94,Electrical,1,6,1,0
+21,Female,73,87,Computer Science,0,7,0,1
+23,Female,72,75,Computer Science,1,7,0,1
+20,Male,90,82,Civil,1,6,0,1
+24,Female,85,91,Information Technology,1,7,0,0
+24,Female,75,84,Mechanical,1,7,0,1
+20,Male,88,81,Civil,0,7,1,0
+23,Male,81,88,Electronics And Communication,0,6,1,0
+24,Male,76,87,Mechanical,0,8,0,1
+20,Male,76,77,Mechanical,0,8,1,1
+23,Male,78,74,Information Technology,0,7,1,0
+22,Female,78,87,Information Technology,0,8,0,1
+24,Male,70,70,Electronics And Communication,0,7,0,0
+23,Male,75,83,Information Technology,0,7,0,0
+21,Male,89,72,Information Technology,0,7,0,1
+23,Male,76,77,Computer Science,1,8,0,1
+21,Female,80,86,Electronics And Communication,1,7,0,0
+24,Male,73,73,Information Technology,1,7,0,1
+24,Female,85,90,Electronics And Communication,0,8,0,1
+22,Male,83,89,Information Technology,2,7,0,0
+21,Female,96,67,Electronics And Communication,0,7,0,0
+23,Male,87,89,Electronics And Communication,2,8,0,1
+22,Male,83,89,Information Technology,0,7,0,1
+24,Male,82,86,Civil,0,8,0,1
+20,Male,82,70,Mechanical,1,8,0,1
+22,Male,70,79,Computer Science,1,8,0,1
+21,Male,94,83,Civil,0,8,0,1
+20,Male,71,75,Information Technology,1,7,0,1
+21,Male,95,66,Civil,0,8,0,1
+22,Male,81,72,Computer Science,1,8,1,1
+24,Male,90,89,Computer Science,1,7,0,0
+21,Male,96,80,Civil,0,7,0,1
+23,Male,83,87,Information Technology,1,8,0,1
+21,Male,94,91,Electrical,0,6,0,1
+20,Male,80,93,Mechanical,1,7,1,0
+24,Male,84,71,Information Technology,1,8,0,1
+20,Female,94,74,Computer Science,2,7,1,0
+23,Female,92,92,Electronics And Communication,0,6,0,0
+22,Male,96,79,Civil,0,6,0,0
+22,Male,83,93,Computer Science,3,8,0,1
+23,Male,84,78,Mechanical,1,8,0,1
+23,Male,74,81,Information Technology,0,7,1,1
+23,Male,76,83,Electrical,0,8,0,1
+20,Male,85,69,Civil,0,8,0,1
+24,Male,91,84,Mechanical,0,6,1,1
+20,Female,77,72,Electronics And Communication,0,8,0,1
+22,Male,89,78,Electronics And Communication,1,8,0,1
+20,Male,95,66,Civil,2,6,0,1
+23,Male,80,75,Electrical,0,7,0,1
+21,Male,77,67,Civil,0,7,0,0
+24,Male,76,92,Mechanical,0,6,0,1
+21,Male,80,82,Mechanical,0,8,1,1
+22,Male,81,68,Information Technology,1,7,0,1
+24,Male,72,83,Information Technology,0,6,0,1
+20,Male,88,80,Electrical,0,7,0,0
+24,Male,92,67,Mechanical,1,8,1,1
+22,Male,95,78,Mechanical,0,8,0,1
+23,Male,90,72,Information Technology,2,7,0,1
+21,Female,91,71,Information Technology,0,6,0,0
+22,Male,80,93,Electronics And Communication,1,8,0,1
+21,Male,86,72,Computer Science,0,6,1,1
+23,Female,93,85,Computer Science,1,7,0,0
+21,Male,77,94,Mechanical,0,7,0,0
+21,Male,88,66,Electronics And Communication,0,7,1,0
+20,Male,76,84,Information Technology,1,8,0,1
+21,Male,87,74,Information Technology,1,8,0,1
+22,Male,73,92,Computer Science,0,6,1,0
+24,Male,73,85,Computer Science,1,8,0,1
+20,Male,91,75,Electronics And Communication,0,7,0,0
+21,Male,75,92,Information Technology,1,6,0,0
+21,Male,81,76,Computer Science,0,6,1,0
+21,Male,79,82,Electronics And Communication,0,8,1,1
+21,Female,83,68,Computer Science,1,8,1,1
+21,Female,81,74,Electronics And Communication,0,8,0,1
+23,Female,73,71,Electronics And Communication,0,8,0,1
+21,Male,87,80,Civil,0,6,1,0
+24,Female,79,77,Electronics And Communication,0,8,0,1
+23,Female,95,75,Mechanical,1,6,0,0
+23,Male,81,82,Electrical,0,8,0,1
+23,Male,71,71,Computer Science,1,8,0,1
+22,Male,90,72,Information Technology,1,8,1,1
+21,Male,76,91,Mechanical,0,6,0,0
+24,Male,77,68,Information Technology,0,6,0,1
+24,Male,92,72,Electronics And Communication,1,6,1,1
+22,Male,96,94,Electronics And Communication,1,8,1,1
+20,Male,84,73,Mechanical,0,6,0,0
+20,Male,77,75,Computer Science,0,8,0,1
+21,Male,75,93,Electrical,0,6,0,0
+22,Male,90,72,Information Technology,0,6,0,0
+24,Female,92,78,Electronics And Communication,0,6,0,1
+21,Male,86,70,Information Technology,0,7,0,0
+24,Female,85,93,Computer Science,1,7,0,1
+22,Male,82,90,Information Technology,0,6,0,0
+24,Male,71,89,Information Technology,2,8,0,1
+22,Male,87,85,Information Technology,1,6,0,0
+21,Male,86,84,Civil,0,7,1,0
+20,Male,86,67,Mechanical,0,7,0,0
+22,Male,70,91,Computer Science,0,6,0,0
+21,Male,83,70,Computer Science,0,6,0,0
+22,Male,82,85,Electronics And Communication,0,7,0,0
+23,Male,70,78,Electronics And Communication,0,6,0,0
+23,Female,93,85,Information Technology,1,5,0,0
+22,Female,78,72,Computer Science,1,5,0,0
+20,Female,85,90,Computer Science,0,5,1,0
+20,Male,82,92,Mechanical,0,5,0,0
+24,Female,79,72,Computer Science,2,5,0,0
+24,Male,81,89,Electronics And Communication,0,6,0,1
+22,Male,86,93,Information Technology,1,6,0,0
+23,Female,86,79,Electronics And Communication,0,5,0,0
+22,Male,86,89,Mechanical,1,6,0,0
+21,Female,70,85,Mechanical,1,5,0,0
+22,Male,71,67,Mechanical,1,5,0,0
+24,Male,85,75,Information Technology,1,6,1,1
+23,Male,77,85,Mechanical,0,5,1,0
+23,Female,96,89,Civil,1,5,0,0
+22,Male,87,88,Electrical,0,5,0,0
+20,Male,70,68,Computer Science,1,5,0,0
+23,Male,77,68,Computer Science,1,5,0,0
+23,Male,80,78,Civil,0,5,0,0
+21,Female,73,80,Information Technology,0,6,0,0
+24,Male,80,87,Civil,0,6,0,1
+23,Male,73,66,Computer Science,0,6,0,1
+24,Male,72,82,Information Technology,1,6,0,1
+22,Male,85,69,Information Technology,1,5,0,0
+22,Male,80,82,Electrical,1,6,1,0
+21,Male,74,86,Information Technology,0,5,0,0
+21,Male,77,81,Electronics And Communication,0,6,0,0
+20,Male,93,66,Computer Science,0,5,0,0
+22,Male,75,66,Information Technology,0,6,0,0
+23,Female,80,66,Mechanical,1,5,0,0
+22,Male,76,72,Computer Science,2,6,0,1
+23,Male,91,83,Civil,1,6,1,0
+22,Male,77,94,Electrical,2,6,0,1
+21,Male,84,82,Mechanical,0,5,1,0
+21,Male,89,84,Electrical,0,6,0,0
+20,Male,95,68,Mechanical,1,5,0,0
+24,Male,93,87,Information Technology,0,6,0,1
+23,Male,73,83,Mechanical,0,5,0,0
+21,Male,72,81,Civil,0,5,1,0
+21,Male,79,72,Computer Science,1,6,1,0
+20,Male,90,69,Information Technology,0,6,0,0
+21,Male,88,82,Computer Science,2,5,0,0
+23,Male,91,68,Computer Science,3,6,0,1
+21,Male,93,77,Electronics And Communication,1,5,0,0
+22,Male,72,81,Electrical,1,6,1,0
+20,Male,81,90,Civil,0,6,1,0
+24,Male,79,93,Information Technology,0,6,0,1
+24,Male,72,67,Electronics And Communication,1,6,1,1
+22,Male,78,88,Mechanical,0,6,0,0
+22,Male,85,79,Information Technology,0,6,0,0
+23,Male,72,89,Civil,1,6,1,0
+22,Male,89,73,Computer Science,0,6,0,0
+24,Male,70,75,Mechanical,0,6,0,1
+20,Male,89,93,Mechanical,0,6,1,0
+24,Male,92,84,Civil,1,6,0,1
+21,Male,91,87,Mechanical,1,5,0,0
+23,Male,92,73,Computer Science,0,5,1,0
+23,Female,93,73,Computer Science,1,5,0,0
+23,Male,71,73,Computer Science,1,6,0,0
+21,Male,75,94,Computer Science,1,6,0,0
+22,Male,79,87,Civil,0,5,0,0
+21,Male,94,83,Electronics And Communication,0,6,0,0
+22,Male,84,72,Electrical,1,6,1,0
+22,Male,76,70,Information Technology,0,5,0,0
+23,Male,94,66,Civil,1,6,0,0
+23,Male,76,88,Civil,0,6,1,0
+21,Male,88,79,Electrical,0,6,1,0
+21,Male,93,80,Computer Science,0,6,1,0
+23,Female,75,76,Computer Science,1,8,0,1
+20,Male,79,90,Computer Science,3,7,1,0
+21,Male,73,85,Electronics And Communication,2,7,0,1
+21,Female,95,87,Computer Science,0,7,0,0
+23,Male,78,87,Computer Science,1,7,0,0
+20,Male,80,66,Computer Science,1,6,0,0
+21,Male,85,74,Information Technology,1,6,0,0
+20,Male,77,93,Information Technology,0,8,0,1
+22,Female,74,83,Information Technology,1,6,0,0
+21,Female,89,73,Information Technology,1,6,0,0
+24,Male,80,92,Information Technology,0,7,0,0
+20,Male,93,85,Computer Science,1,8,0,1
+23,Male,95,94,Electrical,1,8,0,1
+22,Female,72,80,Electronics And Communication,1,7,0,0
+20,Male,89,91,Information Technology,1,6,0,0
+20,Male,79,87,Civil,0,7,0,0
+24,Male,81,92,Computer Science,2,6,0,1
+22,Male,83,83,Civil,0,8,0,1
+20,Female,71,94,Information Technology,1,6,0,0
+21,Male,76,82,Civil,0,8,0,1
+22,Male,96,81,Mechanical,0,8,0,1
+22,Male,83,75,Information Technology,1,8,0,1
+22,Female,87,77,Electronics And Communication,0,8,0,1
+24,Male,73,88,Civil,1,7,0,0
+22,Male,72,71,Information Technology,1,6,0,0
+23,Male,73,92,Information Technology,0,7,0,0
+23,Male,76,85,Electronics And Communication,1,6,1,0
+22,Female,96,90,Information Technology,1,6,0,0
+23,Male,72,84,Mechanical,1,6,0,0
+24,Male,79,84,Information Technology,0,6,0,1
+24,Male,71,93,Information Technology,0,8,0,1
+22,Male,80,84,Computer Science,0,6,1,0
+24,Male,95,83,Computer Science,1,6,0,1
+21,Female,70,86,Computer Science,0,7,0,0
+24,Male,73,81,Computer Science,0,7,0,1
+21,Male,87,86,Mechanical,0,8,0,1
+24,Male,88,80,Civil,0,6,0,1
+24,Male,77,82,Information Technology,1,6,0,1
+21,Male,91,79,Electrical,1,6,0,0
+24,Male,82,86,Electronics And Communication,1,8,1,1
+20,Male,75,72,Computer Science,0,6,0,0
+20,Female,92,90,Mechanical,1,6,0,0
+24,Male,85,75,Computer Science,0,6,0,1
+21,Male,92,85,Computer Science,2,8,0,1
+22,Male,94,72,Computer Science,1,8,0,1
+23,Male,83,73,Electronics And Communication,0,7,0,0
+21,Female,81,71,Information Technology,0,8,0,1
+23,Male,95,71,Computer Science,1,6,0,0
+23,Male,94,83,Civil,0,8,0,1
+22,Male,91,81,Electronics And Communication,0,7,0,0
+24,Male,81,68,Electronics And Communication,1,7,1,0
+22,Male,83,75,Information Technology,0,6,0,0
+24,Male,74,76,Civil,0,7,1,0
+21,Male,78,76,Mechanical,0,8,1,1
+22,Female,79,75,Electronics And Communication,1,6,1,0
+22,Male,70,92,Civil,0,7,0,0
+22,Male,93,66,Information Technology,1,6,0,0
+24,Female,74,87,Electronics And Communication,1,7,1,1
+24,Male,94,92,Computer Science,0,6,1,1
+23,Female,76,69,Mechanical,1,7,0,0
+22,Male,84,71,Electronics And Communication,1,8,0,1
+20,Female,88,83,Mechanical,1,8,0,1
+21,Male,92,90,Civil,0,7,0,0
+20,Male,83,86,Mechanical,1,7,0,0
+22,Male,80,93,Computer Science,0,7,0,0
+21,Male,70,88,Computer Science,2,6,0,1
+23,Male,82,92,Computer Science,1,8,0,1
+20,Male,80,88,Electronics And Communication,1,8,1,1
+22,Female,76,80,Computer Science,1,6,0,0
+20,Male,81,85,Mechanical,0,8,0,1
+21,Male,94,74,Electronics And Communication,0,7,0,0
+22,Male,88,81,Electronics And Communication,0,8,0,1
+21,Male,93,84,Mechanical,0,7,0,0
+23,Male,76,92,Electronics And Communication,0,6,0,0
+21,Male,76,84,Electrical,0,7,0,0
+21,Male,73,92,Information Technology,1,6,0,0
+20,Male,72,84,Mechanical,0,6,1,0
+21,Male,77,69,Computer Science,1,6,0,0
+24,Male,80,77,Mechanical,0,8,1,1
+21,Male,88,91,Electrical,0,6,0,0
+22,Male,94,90,Civil,0,7,0,0
+24,Female,73,78,Information Technology,1,7,0,0
+22,Male,76,83,Computer Science,1,6,0,0
+21,Male,84,77,Information Technology,2,8,0,1
+23,Male,86,87,Computer Science,2,8,0,1
+24,Male,89,85,Information Technology,2,8,0,1
+22,Male,82,86,Mechanical,0,8,0,1
+21,Male,86,78,Computer Science,1,8,0,1
+21,Female,77,69,Computer Science,0,7,1,0
+23,Male,79,80,Computer Science,0,6,0,0
+20,Male,76,79,Information Technology,0,7,1,0
+23,Male,72,89,Computer Science,0,6,0,0
+23,Male,73,90,Electrical,1,7,0,1
+21,Female,72,88,Information Technology,1,6,0,0
+21,Male,70,85,Information Technology,2,7,0,1
+22,Male,95,79,Mechanical,1,7,1,0
+24,Male,82,90,Mechanical,1,7,0,0
+21,Male,76,94,Information Technology,1,7,0,0
+21,Male,96,91,Civil,0,7,0,0
+21,Female,93,67,Electronics And Communication,1,7,0,0
+20,Male,71,87,Computer Science,0,7,0,0
+24,Male,91,93,Computer Science,1,7,0,0
+20,Male,86,78,Information Technology,0,6,0,0
+20,Female,90,69,Electrical,1,7,1,1
+20,Male,92,83,Information Technology,0,7,0,0
+24,Male,75,78,Electrical,1,7,0,1
+22,Male,78,93,Electronics And Communication,1,8,1,1
+23,Female,78,87,Information Technology,0,7,0,0
+20,Male,72,68,Electronics And Communication,2,7,0,1
+22,Male,73,77,Computer Science,0,6,0,0
+21,Male,72,84,Electronics And Communication,0,8,0,1
+21,Male,91,82,Computer Science,0,6,0,0
+22,Male,96,85,Information Technology,0,8,1,1
+22,Male,77,88,Computer Science,0,6,0,0
+22,Male,71,66,Mechanical,0,6,0,0
+22,Male,90,94,Information Technology,2,6,0,1
+21,Male,88,79,Information Technology,1,7,0,0
+22,Female,83,88,Electrical,0,8,0,1
+23,Female,74,75,Electrical,0,6,0,0
+24,Male,81,89,Electronics And Communication,0,6,0,1
+24,Male,91,82,Civil,1,6,0,1
+21,Female,90,79,Electrical,1,8,1,1
+22,Female,79,66,Mechanical,1,6,0,0
+20,Male,84,87,Information Technology,2,8,0,1
+23,Male,83,69,Information Technology,0,8,0,1
+21,Female,94,77,Computer Science,1,6,0,0
+21,Male,79,75,Computer Science,0,6,0,0
+21,Male,95,85,Information Technology,1,8,0,1
+23,Male,80,83,Mechanical,1,8,0,1
+22,Male,77,68,Electronics And Communication,0,7,0,0
+23,Male,89,88,Information Technology,0,7,0,0
+23,Male,79,90,Information Technology,2,6,0,1
+20,Male,74,72,Mechanical,0,8,0,1
+20,Male,76,92,Information Technology,0,8,0,1
+22,Male,77,66,Computer Science,2,8,1,1
+22,Male,79,86,Information Technology,1,7,0,1
+21,Male,86,90,Information Technology,0,7,0,1
+20,Male,73,76,Computer Science,1,8,0,1
+20,Male,85,84,Electrical,2,7,0,1
+21,Male,94,86,Information Technology,0,7,0,0
+19,Female,86,80,Information Technology,1,8,1,1
+19,Male,83,73,Electrical,1,8,0,1
+21,Male,92,83,Computer Science,1,7,0,1
+19,Male,79,81,Computer Science,0,7,0,1
+20,Female,86,74,Computer Science,0,8,0,1
+19,Male,78,91,Electrical,0,8,0,1
+21,Female,79,72,Civil,1,8,1,1
+21,Female,84,88,Computer Science,1,8,0,1
+22,Male,73,69,Information Technology,0,7,0,0
+20,Male,75,72,Electronics And Communication,0,8,0,1
+22,Male,87,73,Electronics And Communication,1,7,0,0
+21,Male,93,80,Computer Science,0,8,0,1
+22,Male,94,80,Computer Science,0,7,0,0
+21,Male,93,79,Computer Science,1,8,0,1
+20,Male,95,66,Information Technology,1,8,0,1
+22,Female,73,78,Mechanical,1,8,0,1
+22,Female,79,76,Computer Science,0,8,0,1
+21,Male,70,67,Electrical,0,8,0,1
+22,Male,74,68,Mechanical,0,8,0,1
+22,Female,91,87,Computer Science,1,7,0,1
+19,Male,85,91,Computer Science,1,7,1,1
+22,Male,71,78,Computer Science,0,8,1,1
+22,Male,85,93,Computer Science,3,7,0,0
+21,Male,89,69,Information Technology,0,7,0,0
+22,Male,84,66,Information Technology,0,7,0,0
+21,Male,76,67,Civil,1,7,0,0
+20,Female,83,91,Information Technology,1,8,0,1
+19,Male,96,71,Information Technology,0,8,0,1
+21,Male,83,71,Electronics And Communication,1,8,1,1
+21,Male,73,72,Information Technology,2,7,1,0
+19,Male,85,74,Computer Science,1,8,0,1
+22,Female,89,83,Computer Science,1,8,1,1
+21,Male,92,90,Computer Science,1,8,0,1
+19,Male,77,68,Electrical,1,8,1,1
+19,Female,73,74,Electronics And Communication,1,7,0,1
+21,Male,74,94,Electrical,0,8,0,1
+20,Male,71,82,Computer Science,0,7,1,0
+20,Male,95,78,Computer Science,1,7,0,0
+22,Male,73,71,Mechanical,3,7,1,0
+22,Male,87,71,Electronics And Communication,0,7,0,0
+20,Female,94,79,Information Technology,1,7,0,1
+20,Male,84,86,Information Technology,0,7,1,1
+22,Female,94,84,Computer Science,3,8,0,1
+22,Male,91,69,Electronics And Communication,2,8,0,1
+19,Female,71,76,Civil,1,8,0,1
+22,Male,77,93,Electronics And Communication,1,8,1,1
+22,Male,74,90,Information Technology,0,8,1,1
+20,Male,79,85,Mechanical,1,8,0,1
+20,Male,72,86,Information Technology,1,8,1,1
+20,Male,96,90,Mechanical,1,7,1,0
+22,Female,92,68,Computer Science,1,7,0,0
+20,Male,94,84,Computer Science,1,8,0,1
+19,Male,76,90,Civil,1,7,0,0
+21,Male,92,88,Civil,0,7,0,0
+19,Male,86,75,Computer Science,2,7,0,1
+22,Male,96,88,Electrical,0,7,0,0
+19,Male,84,83,Electronics And Communication,0,8,0,1
+19,Male,73,85,Civil,0,7,0,0
+21,Male,96,86,Information Technology,0,8,0,1
+19,Male,70,69,Civil,0,8,1,1
+22,Male,72,76,Computer Science,1,8,0,1
+20,Male,83,66,Computer Science,1,7,0,0
+22,Male,84,75,Computer Science,0,7,0,0
+21,Male,81,78,Information Technology,1,8,0,1
+20,Male,96,90,Information Technology,1,8,0,1
+19,Male,72,85,Mechanical,1,8,0,1
+20,Male,89,78,Civil,1,8,0,1
+21,Male,73,83,Computer Science,0,7,0,0
+22,Male,79,76,Information Technology,0,8,0,1
+20,Female,82,82,Computer Science,1,8,0,1
+19,Male,71,89,Information Technology,1,7,0,0
+21,Male,93,83,Computer Science,1,8,0,1
+20,Male,80,93,Electronics And Communication,0,8,0,1
+21,Male,94,84,Computer Science,1,8,0,1
+20,Male,82,73,Mechanical,0,8,1,1
+21,Male,89,79,Electrical,0,7,0,0
+20,Male,77,67,Computer Science,2,8,0,1
+21,Male,75,73,Computer Science,1,7,1,0
+22,Male,91,89,Computer Science,0,8,0,1
+19,Male,91,88,Electronics And Communication,0,8,0,1
+19,Male,87,78,Civil,0,7,0,0
+21,Male,91,80,Information Technology,0,7,0,0
+21,Male,91,86,Mechanical,1,8,0,1
+19,Male,96,82,Computer Science,0,8,0,1
+22,Male,85,85,Computer Science,2,7,0,0
+20,Male,82,86,Computer Science,1,7,0,0
+22,Male,81,80,Information Technology,1,7,0,0
+21,Male,71,72,Mechanical,0,8,0,1
+19,Male,81,92,Electronics And Communication,0,8,0,1
+20,Male,89,94,Information Technology,1,7,0,0
+22,Male,80,93,Information Technology,1,8,0,1
+20,Male,89,82,Computer Science,0,8,0,1
+19,Male,78,74,Computer Science,1,7,0,0
+21,Male,76,94,Electronics And Communication,0,7,0,1
+19,Male,77,76,Electronics And Communication,0,8,0,1
+21,Male,83,81,Electrical,1,8,0,1
+19,Male,70,88,Computer Science,0,8,0,1
+19,Male,79,83,Computer Science,1,8,0,1
+22,Male,96,66,Computer Science,0,7,0,0
+21,Female,91,90,Electronics And Communication,0,8,0,1
+19,Male,76,92,Computer Science,2,8,0,1
+19,Male,96,80,Electronics And Communication,0,7,0,1
+19,Male,85,78,Electrical,0,6,0,0
+20,Male,84,79,Mechanical,0,8,0,1
+21,Male,88,75,Electrical,1,7,1,1
+20,Male,82,79,Computer Science,0,8,1,1
+22,Male,96,80,Computer Science,0,6,0,0
+19,Male,79,80,Computer Science,0,7,0,0
+20,Male,90,69,Electrical,0,8,1,1
+22,Female,81,84,Electrical,0,6,0,0
+22,Male,82,68,Information Technology,1,6,0,0
+21,Male,85,88,Electronics And Communication,0,6,1,0
+20,Male,85,81,Computer Science,0,7,1,0
+20,Male,86,69,Information Technology,1,7,0,0
+21,Male,76,86,Information Technology,0,8,0,1
+21,Male,77,81,Computer Science,1,8,0,1
+19,Male,77,74,Civil,1,7,1,0
+19,Male,85,88,Computer Science,0,8,0,1
+19,Male,86,83,Electrical,1,6,0,0
+22,Male,75,81,Electronics And Communication,0,7,0,0
+22,Male,74,79,Electronics And Communication,0,6,0,0
+22,Male,71,92,Electronics And Communication,1,8,1,1
+22,Male,94,74,Computer Science,1,7,0,0
+19,Male,77,68,Mechanical,2,8,0,1
+20,Male,94,71,Computer Science,0,6,1,0
+22,Female,80,82,Mechanical,1,6,0,0
+21,Male,78,74,Information Technology,0,6,1,0
+22,Male,88,69,Electronics And Communication,3,6,0,1
+20,Male,72,68,Computer Science,0,7,0,0
+20,Male,83,91,Information Technology,0,6,0,0
+20,Male,78,86,Information Technology,1,8,0,1
+21,Male,92,84,Civil,0,7,0,0
+20,Male,74,70,Computer Science,2,7,0,1
+20,Male,92,70,Electrical,1,6,0,0
+19,Male,73,67,Electrical,2,6,1,0
+19,Male,74,82,Civil,2,6,0,1
+22,Male,71,80,Computer Science,1,8,0,1
+22,Female,79,69,Electrical,0,7,1,0
+19,Male,89,72,Computer Science,0,6,0,0
+22,Male,93,79,Mechanical,2,7,0,0
+20,Male,91,73,Computer Science,1,6,0,0
+21,Male,93,67,Electrical,1,7,0,1
+20,Male,73,85,Mechanical,0,8,0,1
+22,Male,82,69,Computer Science,1,7,0,0
+19,Male,81,70,Information Technology,1,8,0,1
+22,Male,92,69,Information Technology,0,6,0,0
+19,Male,91,88,Electronics And Communication,2,8,0,1
+19,Male,73,94,Mechanical,0,6,1,0
+21,Male,87,77,Information Technology,0,8,0,1
+21,Male,77,84,Information Technology,1,6,0,0
+21,Male,86,82,Electronics And Communication,2,8,1,1
+19,Male,84,66,Information Technology,1,7,0,0
+21,Male,70,75,Computer Science,0,8,0,1
+20,Male,74,86,Electrical,0,8,0,1
+20,Male,79,85,Information Technology,0,6,0,0
+20,Male,89,86,Electronics And Communication,2,6,0,1
+21,Male,93,94,Electrical,1,8,0,1
+22,Male,81,80,Electrical,0,7,0,0
+21,Male,73,85,Information Technology,2,7,1,0
+21,Male,86,73,Information Technology,2,6,0,1
+20,Male,79,91,Mechanical,0,6,0,0
+21,Male,89,81,Electrical,0,7,0,0
+22,Male,84,93,Information Technology,2,6,0,1
+21,Female,71,70,Computer Science,0,8,0,1
+21,Male,76,83,Electronics And Communication,0,8,0,1
+19,Male,74,77,Computer Science,2,7,1,0
+20,Female,95,80,Electrical,0,8,1,1
+19,Male,82,67,Electrical,0,8,0,1
+19,Male,96,75,Information Technology,3,7,0,1
+21,Female,93,92,Computer Science,0,6,1,0
+21,Male,93,88,Computer Science,2,6,0,1
+22,Male,72,81,Computer Science,2,8,0,1
+20,Male,76,76,Electrical,1,7,0,1
+19,Male,80,83,Mechanical,0,6,0,0
+20,Male,81,89,Electrical,0,6,1,0
+19,Male,84,66,Civil,0,8,0,1
+19,Male,80,87,Computer Science,1,6,0,0
+21,Male,77,89,Computer Science,0,8,1,1
+22,Male,96,88,Civil,1,7,0,0
+22,Male,73,93,Information Technology,0,6,1,0
+21,Male,93,72,Civil,1,6,0,0
+21,Female,84,68,Computer Science,2,7,0,1
+20,Male,78,82,Electronics And Communication,1,7,0,1
+19,Male,71,77,Electronics And Communication,0,6,0,0
+20,Male,80,90,Mechanical,0,8,1,1
+20,Female,76,93,Information Technology,1,8,0,1
+21,Male,91,85,Computer Science,0,6,0,0
+20,Male,83,84,Information Technology,1,7,0,0
+22,Male,84,83,Computer Science,2,7,0,0
+21,Male,90,86,Electronics And Communication,1,8,1,1
+19,Male,93,74,Computer Science,1,7,0,0
+20,Male,72,76,Information Technology,2,7,0,1
+19,Male,75,87,Information Technology,1,8,0,1
+21,Male,89,84,Information Technology,1,9,1,1
+19,Male,85,77,Information Technology,0,6,1,0
+19,Male,86,74,Computer Science,1,9,0,1
+19,Male,86,87,Civil,0,7,0,0
+20,Female,94,85,Computer Science,1,6,1,1
+20,Male,92,75,Information Technology,0,6,0,0
+19,Male,87,93,Electronics And Communication,0,8,0,1
+19,Male,93,76,Electronics And Communication,0,7,0,0
+21,Male,74,73,Computer Science,0,5,1,0
+21,Male,80,89,Electrical,0,7,0,0
+19,Male,86,89,Mechanical,0,9,1,1
+19,Male,78,69,Electronics And Communication,2,8,1,1
+19,Male,78,88,Electronics And Communication,0,9,0,1
+20,Male,71,75,Computer Science,3,6,0,1
+22,Male,94,89,Information Technology,1,6,0,1
+22,Male,75,68,Computer Science,1,9,0,1
+21,Male,86,78,Computer Science,1,7,1,1
+21,Female,91,66,Information Technology,1,5,0,0
+22,Male,73,86,Electrical,0,5,0,0
+19,Male,86,70,Mechanical,1,5,0,0
+22,Male,81,93,Mechanical,0,5,0,0
+21,Male,91,84,Electronics And Communication,0,9,0,1
+19,Male,91,79,Computer Science,0,8,0,1
+21,Male,90,68,Electrical,1,5,0,0
+20,Male,78,88,Electrical,0,5,0,0
+21,Female,71,94,Civil,1,8,0,1
+20,Male,81,80,Computer Science,0,8,1,1
+22,Male,72,81,Information Technology,2,5,0,0
+20,Male,83,70,Mechanical,0,6,0,0
+19,Male,83,79,Computer Science,0,9,1,1
+22,Male,95,67,Civil,1,7,0,0
+22,Male,96,89,Electronics And Communication,0,5,0,0
+19,Male,76,73,Information Technology,0,9,1,1
+19,Male,79,83,Mechanical,0,6,0,1
+22,Male,78,82,Information Technology,1,9,1,1
+21,Male,90,82,Electronics And Communication,1,7,1,1
+19,Male,96,68,Electrical,0,5,0,0
+21,Male,79,68,Computer Science,1,8,0,1
+22,Male,82,77,Computer Science,1,6,0,1
+19,Male,70,86,Electronics And Communication,1,8,1,1
+22,Male,96,70,Electronics And Communication,1,9,1,1
+22,Male,87,72,Computer Science,0,6,0,1
+22,Female,87,80,Computer Science,0,9,0,1
+19,Male,70,83,Information Technology,1,6,0,1
+20,Male,92,92,Mechanical,1,9,0,1
+21,Male,84,77,Computer Science,0,9,0,1
+19,Male,76,87,Information Technology,2,8,0,1
+21,Male,84,73,Electrical,1,9,0,1
+20,Male,80,72,Civil,0,8,0,1
+19,Male,92,73,Computer Science,1,7,0,1
+20,Male,91,87,Information Technology,0,8,0,1
+20,Male,72,81,Computer Science,0,5,0,0
+19,Female,92,93,Electrical,3,9,1,1
+20,Male,96,72,Information Technology,1,7,0,1
+22,Male,79,70,Civil,0,9,0,1
+20,Male,91,83,Mechanical,0,7,1,1
+21,Male,80,93,Information Technology,0,7,0,0
+20,Male,73,78,Computer Science,1,8,0,1
+21,Male,91,82,Information Technology,1,8,0,1
+21,Male,82,87,Civil,0,6,0,0
+19,Male,74,83,Mechanical,0,7,0,0
+22,Male,83,76,Electrical,0,8,0,1
+22,Male,96,83,Computer Science,1,9,0,1
+20,Female,90,89,Civil,1,9,0,1
+21,Male,95,73,Mechanical,0,6,0,1
+20,Male,77,94,Computer Science,2,7,1,1
+21,Male,76,85,Computer Science,0,5,0,0
+21,Female,79,93,Electronics And Communication,0,7,0,0
+21,Male,73,82,Information Technology,0,6,0,0
+22,Male,76,75,Information Technology,1,5,0,0
+19,Male,76,76,Information Technology,1,9,0,1
+19,Male,92,70,Mechanical,3,7,0,1
+21,Male,90,75,Electrical,0,5,0,0
+20,Female,83,79,Computer Science,0,9,1,1
+21,Male,76,89,Computer Science,1,6,0,1
+22,Male,70,91,Information Technology,1,5,0,0
+21,Male,85,76,Electronics And Communication,0,7,0,0
+21,Male,74,67,Information Technology,3,9,0,1
+22,Male,70,74,Mechanical,0,5,0,0
+21,Male,88,66,Computer Science,2,7,0,0
+20,Male,83,93,Information Technology,3,9,0,1
+22,Male,90,87,Mechanical,0,8,0,1
+19,Male,83,67,Electronics And Communication,1,6,1,1
+20,Male,85,90,Mechanical,1,9,0,1
+20,Male,88,90,Civil,2,9,0,1
+21,Male,90,68,Mechanical,1,8,0,1
+22,Male,95,70,Electronics And Communication,1,7,1,1
+22,Female,70,91,Computer Science,1,6,0,0
+20,Male,93,80,Computer Science,0,6,0,0
+19,Female,72,92,Information Technology,1,8,0,1
+19,Male,87,75,Information Technology,1,7,0,0
+21,Male,85,73,Computer Science,1,6,0,0
+21,Female,85,82,Electrical,0,7,1,0
+20,Male,78,83,Computer Science,1,8,0,1
+21,Male,88,80,Civil,1,6,0,0
+20,Male,95,90,Electronics And Communication,1,6,0,0
+19,Male,79,83,Information Technology,2,6,0,1
+21,Male,77,84,Mechanical,1,6,1,0
+19,Male,83,69,Electrical,0,7,0,0
+19,Male,79,70,Information Technology,0,8,0,1
+21,Male,70,69,Civil,0,7,0,0
+21,Female,83,91,Information Technology,1,7,0,1
+19,Male,72,93,Mechanical,0,7,0,0
+21,Male,95,69,Information Technology,2,7,0,1
+20,Male,74,72,Electrical,0,6,0,0
+19,Male,81,73,Computer Science,1,6,0,1
+20,Female,71,81,Computer Science,0,7,1,1
+19,Female,75,75,Computer Science,1,7,0,1
+19,Male,73,74,Electrical,0,6,1,0
+19,Male,79,90,Electronics And Communication,0,7,0,1
+19,Male,87,69,Electrical,0,7,0,0
+20,Male,96,89,Computer Science,0,6,1,1
+21,Female,73,83,Computer Science,1,8,0,1
+19,Male,82,83,Mechanical,0,6,0,0
+19,Male,74,72,Computer Science,2,8,0,1
+20,Male,96,90,Computer Science,0,7,0,0
+20,Male,95,66,Electrical,1,6,0,1
+22,Female,72,93,Computer Science,3,6,0,1
+21,Male,95,86,Electrical,0,7,0,0
+20,Male,91,88,Computer Science,0,8,1,1
+19,Male,85,66,Information Technology,2,8,0,1
+22,Male,91,89,Electronics And Communication,1,6,0,0
+22,Male,93,92,Information Technology,0,7,0,1
+20,Male,92,83,Mechanical,0,6,1,0
+20,Male,73,78,Mechanical,0,7,0,0
+21,Male,88,89,Computer Science,0,8,0,1
+22,Male,77,74,Civil,0,8,0,1
+22,Male,75,76,Computer Science,1,8,0,1
+19,Male,81,67,Civil,1,6,0,0
+22,Male,73,75,Electrical,0,8,0,1
+21,Male,74,86,Electronics And Communication,0,6,0,0
+20,Male,94,75,Electrical,0,6,0,0
+20,Male,85,86,Electronics And Communication,1,8,0,1
+22,Male,85,79,Computer Science,1,6,0,1
+19,Male,76,91,Computer Science,0,8,0,1
+19,Male,84,90,Mechanical,0,8,1,1
+20,Male,83,80,Information Technology,1,6,1,0
+19,Female,96,92,Information Technology,1,6,0,0
+21,Male,89,69,Electrical,0,6,0,0
+21,Female,74,85,Mechanical,1,6,0,0
+22,Male,76,66,Mechanical,0,8,0,1
+21,Male,72,89,Computer Science,1,8,0,1
+19,Female,87,93,Electronics And Communication,1,8,1,1
+19,Male,88,72,Electronics And Communication,0,7,0,1
+21,Male,82,81,Electronics And Communication,0,8,0,1
+21,Male,71,91,Civil,1,6,0,0
+19,Male,90,68,Mechanical,1,8,1,1
+20,Male,90,72,Electronics And Communication,1,7,0,1
+19,Male,75,68,Mechanical,0,7,0,0
+19,Male,70,86,Civil,0,8,1,1
+19,Male,95,86,Mechanical,0,7,0,0
+19,Male,76,68,Information Technology,0,6,0,0
+19,Male,90,85,Electrical,2,7,0,1
+20,Female,74,71,Computer Science,0,7,0,0
+22,Female,73,73,Civil,1,6,0,0
+19,Male,91,84,Civil,1,6,0,1
+20,Male,92,91,Computer Science,1,7,0,1
+22,Male,73,81,Information Technology,1,6,0,1
+19,Male,92,85,Computer Science,0,7,1,1
+19,Female,71,72,Electrical,0,7,0,0
+22,Male,74,73,Computer Science,1,7,0,0
+21,Male,93,92,Civil,0,8,0,1
+20,Male,78,84,Civil,1,8,0,1
+21,Male,73,72,Electronics And Communication,2,8,0,1
+20,Female,83,79,Computer Science,0,6,1,0
+21,Male,91,87,Electrical,1,7,0,1
+22,Male,71,71,Computer Science,1,7,0,0
+22,Female,96,89,Information Technology,3,6,1,0
+20,Male,78,84,Computer Science,2,7,0,1
+20,Male,70,83,Computer Science,2,6,0,1
+19,Male,78,66,Mechanical,1,6,1,0
+22,Male,72,90,Information Technology,1,8,0,1
+22,Male,90,94,Mechanical,0,8,0,1
+22,Female,76,82,Electronics And Communication,1,7,0,0
+20,Male,92,71,Electrical,0,8,1,1
+21,Male,82,74,Information Technology,1,8,0,1
+21,Male,76,80,Computer Science,0,6,0,0
+21,Male,96,67,Information Technology,0,6,0,0
+21,Male,77,89,Information Technology,0,8,0,1
+20,Female,86,85,Civil,1,6,1,0
+19,Male,78,68,Information Technology,0,7,0,0
+20,Female,73,69,Information Technology,0,6,0,0
+22,Male,83,69,Mechanical,1,8,0,1
+22,Female,96,75,Electrical,0,7,0,0
+21,Male,82,78,Information Technology,1,7,0,0
+19,Female,73,66,Electrical,1,7,0,1
+19,Female,79,78,Electronics And Communication,0,6,0,0
+19,Male,70,92,Information Technology,1,7,0,0
+20,Female,77,90,Computer Science,1,8,0,1
+20,Male,96,85,Information Technology,1,7,0,0
+22,Female,83,69,Electronics And Communication,1,7,0,0
+20,Male,83,86,Civil,0,7,0,0
+20,Male,89,80,Electronics And Communication,1,6,0,0
+21,Female,77,78,Information Technology,0,6,0,0
+21,Male,82,76,Information Technology,0,7,0,0
+20,Female,81,70,Electronics And Communication,0,7,0,1
+19,Male,92,91,Electrical,2,7,1,1
+21,Male,94,87,Information Technology,0,8,0,1
+21,Male,73,67,Computer Science,1,6,0,0
+20,Male,87,82,Civil,0,8,0,1
+22,Male,71,78,Civil,1,7,0,0
+20,Male,75,70,Information Technology,0,6,0,0
+19,Male,95,82,Electrical,0,6,0,0
+22,Male,71,83,Civil,0,7,0,0
+21,Male,89,92,Civil,0,7,0,0
+22,Male,92,71,Information Technology,0,7,0,0
+19,Male,89,74,Electrical,0,8,0,1
+21,Male,96,74,Information Technology,1,8,0,1
+21,Male,82,94,Electronics And Communication,1,7,1,1
+22,Female,82,94,Computer Science,2,8,0,1
+22,Male,70,70,Computer Science,0,8,0,1
+19,Male,86,90,Electrical,1,7,1,1
+20,Male,90,78,Computer Science,1,7,0,0
+20,Male,70,77,Electronics And Communication,1,6,0,0
+19,Male,71,66,Civil,1,8,0,1
+22,Male,70,75,Computer Science,0,6,0,0
+20,Male,70,75,Electronics And Communication,0,6,0,0
+22,Male,83,80,Mechanical,0,6,0,0
+21,Male,88,70,Information Technology,0,7,0,0
+21,Female,88,73,Electronics And Communication,0,7,0,0
+20,Male,84,74,Electronics And Communication,0,8,1,1
+20,Female,76,91,Electronics And Communication,2,8,0,1
+22,Female,85,85,Computer Science,1,7,0,0
+22,Female,83,91,Mechanical,1,6,0,0
+19,Male,85,72,Electronics And Communication,0,7,0,0
+22,Female,86,81,Electronics And Communication,0,8,0,1
+19,Male,88,69,Electrical,1,6,0,0
+20,Male,79,90,Computer Science,2,7,0,1
+19,Female,82,71,Computer Science,1,7,0,0
+21,Male,84,80,Mechanical,0,8,0,1
+22,Male,79,89,Computer Science,1,6,0,0
+19,Male,77,73,Mechanical,1,6,0,0
+20,Male,81,89,Electrical,0,6,0,0
+29,Female,87,93,Mechanical,1,8,0,1
+20,Male,93,74,Information Technology,1,6,0,0
+20,Male,77,84,Information Technology,0,6,0,0
+20,Male,96,74,Information Technology,1,6,0,0
+20,Male,96,91,Electronics And Communication,0,6,0,0
+22,Male,94,70,Civil,1,8,0,1
+19,Male,95,88,Computer Science,0,6,0,0
+20,Male,93,84,Electronics And Communication,1,6,0,0
+19,Male,86,85,Information Technology,0,7,0,0
+20,Male,92,82,Electrical,0,6,0,0
+19,Female,74,70,Computer Science,0,8,0,1
+20,Male,93,81,Information Technology,0,8,1,1
+19,Male,85,81,Information Technology,2,7,0,1
+22,Female,79,93,Civil,1,6,0,0
+22,Male,87,94,Civil,1,6,0,0
+19,Male,81,84,Electrical,0,8,0,1
+21,Male,88,94,Electrical,0,8,0,1
+22,Female,77,66,Information Technology,0,6,0,0
+20,Male,76,68,Electronics And Communication,1,7,0,0
+21,Male,86,83,Computer Science,2,7,0,1
+19,Male,79,74,Information Technology,2,8,0,1
+22,Female,80,76,Information Technology,1,7,0,0
+21,Male,72,84,Electronics And Communication,0,7,0,1
+19,Male,82,70,Information Technology,1,8,0,1
+21,Male,90,86,Computer Science,1,6,0,0
+21,Male,94,76,Electronics And Communication,1,8,1,1
+21,Male,89,72,Computer Science,0,7,1,0
+20,Male,81,89,Civil,0,7,0,0
+21,Female,80,74,Information Technology,0,8,0,1
+20,Male,85,80,Computer Science,0,6,0,0
+19,Female,79,86,Electrical,1,7,0,1
+22,Male,92,75,Civil,0,8,0,1
+19,Male,87,93,Computer Science,0,7,1,0
+20,Male,86,70,Computer Science,0,8,0,1
+20,Female,77,93,Mechanical,1,7,0,0
+22,Female,77,87,Computer Science,1,8,0,1
+22,Male,84,78,Information Technology,0,6,0,0
+19,Male,85,92,Computer Science,1,8,0,1
+20,Female,72,91,Electrical,3,6,1,0
+20,Male,96,66,Civil,0,8,0,1
+19,Male,79,84,Mechanical,1,7,0,0
+22,Male,93,68,Computer Science,1,6,0,0
+19,Male,73,86,Mechanical,1,8,0,1
+21,Male,70,86,Electrical,1,6,0,0
+21,Male,85,85,Mechanical,0,8,0,1
+20,Male,94,78,Computer Science,0,6,0,0
+20,Male,80,79,Mechanical,1,6,0,0
+20,Male,87,74,Computer Science,1,8,0,1
+20,Male,89,88,Mechanical,2,6,0,1
+20,Male,89,74,Computer Science,0,7,1,0
+20,Male,76,71,Computer Science,0,6,0,0
+20,Male,89,66,Computer Science,0,6,0,0
+21,Male,91,79,Computer Science,1,8,0,1
+20,Male,80,69,Electronics And Communication,1,6,1,0
+20,Female,95,83,Civil,1,7,0,0
+19,Male,90,89,Electronics And Communication,1,7,0,1
+19,Female,95,67,Electronics And Communication,0,8,0,1
+19,Male,89,84,Electronics And Communication,1,7,1,0
+21,Female,89,81,Information Technology,0,6,0,0
+22,Male,88,84,Electrical,1,7,1,0
+22,Male,79,74,Mechanical,1,6,0,0
+21,Male,90,67,Mechanical,0,6,1,0
+20,Male,96,75,Information Technology,0,7,1,0
+22,Male,85,94,Mechanical,1,7,0,0
+22,Male,74,67,Civil,0,8,0,1
+22,Female,73,89,Electronics And Communication,0,6,0,0
+19,Male,84,80,Mechanical,0,7,0,0
+22,Male,87,89,Electronics And Communication,1,6,0,0
+19,Male,86,67,Civil,0,6,0,0
+22,Male,93,71,Information Technology,2,8,0,1
+20,Male,84,85,Computer Science,1,8,0,1
+20,Male,83,67,Electronics And Communication,0,6,0,0
+19,Male,94,80,Civil,1,7,0,0
+22,Male,93,66,Information Technology,0,8,1,1
+21,Male,74,82,Electrical,1,8,0,1
+21,Male,83,69,Civil,0,7,1,0
+22,Male,76,82,Mechanical,0,6,1,0
+20,Male,73,90,Information Technology,0,8,0,1
+19,Female,87,68,Mechanical,1,6,0,0
+22,Female,73,81,Computer Science,2,7,0,0
+22,Male,72,77,Mechanical,0,6,0,0
+20,Male,90,70,Civil,0,6,0,0
+20,Male,89,68,Computer Science,1,7,0,0
+21,Male,82,94,Computer Science,2,6,0,1
+20,Male,89,74,Computer Science,0,7,0,0
+19,Male,70,83,Computer Science,1,8,0,1
+21,Male,80,84,Electrical,1,6,0,0
+22,Male,81,78,Mechanical,0,6,0,0
+21,Male,76,85,Electrical,0,7,0,0
+22,Male,84,76,Electronics And Communication,0,8,0,1
+21,Male,93,66,Electrical,0,7,0,0
+22,Male,89,82,Electronics And Communication,1,6,0,0
+20,Male,85,76,Mechanical,1,8,0,1
+21,Male,82,73,Computer Science,1,6,0,0
+20,Male,92,79,Civil,1,8,0,1
+22,Male,80,89,Civil,0,6,0,0
+21,Male,74,76,Computer Science,0,8,1,1
+21,Male,91,93,Civil,0,6,0,0
+19,Male,95,78,Computer Science,1,6,0,0
+22,Male,86,75,Civil,0,6,0,0
+19,Male,76,80,Civil,1,8,0,1
+21,Male,72,73,Computer Science,1,6,0,0
+20,Male,76,76,Computer Science,1,7,0,0
+19,Male,84,86,Electrical,0,8,1,1
+20,Male,95,73,Information Technology,1,8,0,1
+20,Male,72,78,Computer Science,1,6,0,0
+22,Male,73,66,Mechanical,0,8,0,1
+19,Male,83,72,Electronics And Communication,1,8,0,1
+19,Male,75,75,Civil,0,6,0,0
+19,Male,77,83,Civil,0,8,1,1
+20,Male,91,83,Mechanical,0,8,0,1
+19,Male,88,83,Electronics And Communication,0,8,0,1
+22,Male,86,78,Information Technology,0,6,0,0
+28,Male,77,72,Computer Science,0,6,0,1
+22,Male,81,80,Computer Science,1,7,0,0
+22,Male,93,76,Information Technology,0,6,0,0
+19,Male,73,92,Electronics And Communication,1,6,0,0
+19,Male,91,94,Computer Science,1,7,0,0
+21,Male,81,66,Computer Science,0,7,0,0
+22,Male,84,91,Mechanical,1,6,0,0
+20,Male,87,71,Electronics And Communication,1,7,0,0
+19,Male,73,76,Mechanical,0,8,0,1
+22,Male,89,73,Civil,0,7,0,0
+21,Male,71,80,Electrical,0,8,0,1
+20,Male,92,69,Mechanical,0,7,1,0
+19,Male,80,68,Mechanical,1,8,0,1
+21,Male,81,84,Information Technology,1,6,0,0
+19,Male,70,93,Mechanical,1,8,1,1
+19,Male,78,77,Computer Science,0,7,1,0
+22,Male,73,92,Civil,1,6,0,0
+19,Female,87,88,Computer Science,1,6,0,0
+22,Male,94,69,Information Technology,1,8,0,1
+19,Male,81,73,Electrical,2,8,1,1
+21,Female,71,83,Mechanical,1,6,1,0
+21,Male,76,86,Electrical,0,7,0,0
+20,Male,94,83,Electrical,0,8,1,1
+20,Male,84,91,Mechanical,1,8,0,1
+19,Male,88,85,Computer Science,2,6,0,1
+21,Male,70,72,Information Technology,0,6,1,0
+22,Male,89,94,Information Technology,1,7,0,0
+22,Male,92,76,Civil,1,8,0,1
+21,Male,77,83,Computer Science,1,7,0,0
+21,Male,89,91,Information Technology,0,7,0,0
+22,Female,73,72,Electronics And Communication,2,7,0,0
+21,Male,90,80,Electrical,1,7,1,1
+22,Male,89,81,Information Technology,0,6,1,0
+19,Male,72,66,Civil,0,6,0,0
+21,Male,74,94,Electronics And Communication,1,6,1,0
+19,Female,81,67,Computer Science,1,7,0,0
+21,Male,83,72,Computer Science,0,6,1,0
+20,Male,90,85,Information Technology,0,7,0,0
+20,Male,83,93,Electrical,0,7,0,0
+19,Male,79,77,Electronics And Communication,1,8,1,1
+19,Male,82,88,Computer Science,1,6,0,0
+21,Male,80,76,Civil,0,8,0,1
+22,Male,86,71,Electrical,3,7,0,0
+21,Male,89,79,Electronics And Communication,0,8,1,1
+22,Male,88,73,Computer Science,2,7,0,0
+22,Male,73,70,Electronics And Communication,1,6,0,0
+21,Male,79,81,Information Technology,0,6,0,0
+21,Male,90,88,Information Technology,0,6,0,0
+20,Male,82,94,Information Technology,0,6,0,0
+19,Male,80,84,Computer Science,0,6,1,0
+21,Female,87,89,Electronics And Communication,0,7,0,0
+22,Male,78,72,Information Technology,0,7,1,0
+21,Male,80,82,Computer Science,0,7,1,0
+22,Male,75,77,Computer Science,2,6,0,1
+20,Male,78,80,Information Technology,0,7,1,0
+21,Male,78,92,Mechanical,0,8,0,1
+21,Female,95,74,Electrical,1,7,0,1
+20,Male,92,68,Electrical,2,7,0,1
+21,Male,79,86,Civil,0,8,0,1
+21,Male,77,94,Mechanical,0,8,0,1
+21,Male,73,87,Electrical,0,7,0,0
+20,Male,96,76,Information Technology,0,8,1,1
+21,Male,81,74,Computer Science,0,7,0,0
+20,Female,93,88,Computer Science,2,6,0,1
+21,Male,81,93,Computer Science,1,6,0,0
+21,Female,78,79,Electrical,0,8,0,1
+21,Male,78,83,Computer Science,0,7,0,0
+21,Male,73,86,Civil,0,7,0,0
+20,Male,93,72,Civil,2,7,0,0
+20,Female,90,88,Information Technology,0,6,0,0
+21,Male,91,78,Electronics And Communication,1,6,1,0
+20,Male,84,72,Information Technology,0,8,0,1
+20,Male,72,86,Computer Science,1,8,0,1
+21,Male,85,73,Civil,0,8,1,1
+20,Male,80,81,Computer Science,2,6,0,1
+21,Female,94,75,Mechanical,1,8,0,1
+20,Male,96,78,Civil,0,8,1,1
+20,Male,90,94,Computer Science,1,7,0,0
+21,Male,75,73,Mechanical,0,6,0,0
+20,Male,84,75,Mechanical,0,7,0,0
+20,Male,78,90,Electronics And Communication,1,6,1,0
+20,Female,93,85,Computer Science,0,6,1,0
+20,Male,76,80,Mechanical,0,6,1,0
+20,Male,84,67,Computer Science,1,8,0,1
+20,Male,82,91,Civil,1,6,0,0
+20,Male,90,81,Computer Science,0,8,0,1
+20,Male,80,71,Electronics And Communication,1,6,0,0
+21,Female,84,71,Information Technology,0,7,0,0
+20,Male,79,82,Electrical,1,7,0,1
+21,Male,95,93,Mechanical,3,6,0,1
+20,Male,96,82,Computer Science,0,7,0,0
+21,Female,71,67,Electronics And Communication,1,8,0,1
+21,Male,90,89,Electronics And Communication,1,7,1,1
+21,Male,77,81,Mechanical,0,7,0,0
+21,Female,79,78,Electronics And Communication,1,8,0,1
+20,Male,84,75,Civil,1,8,0,1
+21,Male,86,69,Electronics And Communication,0,7,0,1
+20,Male,77,74,Civil,0,6,1,0
+21,Male,86,85,Information Technology,2,6,0,1
+20,Male,85,79,Information Technology,0,7,0,0
+20,Male,76,69,Electronics And Communication,0,6,0,0
+20,Male,74,70,Information Technology,0,6,0,0
+20,Male,73,72,Mechanical,1,6,0,0
+21,Male,89,79,Electronics And Communication,0,7,0,0
+20,Male,79,70,Mechanical,3,8,0,1
+20,Male,81,85,Mechanical,0,7,0,0
+21,Male,80,74,Civil,1,6,0,0
+20,Male,70,75,Information Technology,1,8,0,1
+21,Male,96,66,Computer Science,1,6,0,0
+21,Male,83,71,Computer Science,1,7,0,0
+21,Male,72,75,Computer Science,1,8,0,1
+20,Male,83,79,Mechanical,1,8,0,1
+20,Male,78,67,Information Technology,0,8,1,1
+20,Male,72,66,Computer Science,0,6,1,0
+21,Male,92,73,Mechanical,1,8,0,1
+20,Male,70,88,Civil,0,8,0,1
+20,Female,84,86,Electronics And Communication,0,6,0,0
+21,Male,87,81,Electrical,0,8,0,1
+21,Male,80,88,Mechanical,0,6,0,0
+21,Female,70,75,Computer Science,1,6,0,0
+20,Male,82,75,Information Technology,0,6,0,0
+21,Male,90,73,Civil,1,8,0,1
+20,Male,96,84,Mechanical,1,8,0,1
+21,Female,72,73,Electrical,1,8,0,1
+21,Male,82,90,Civil,0,7,0,0
+21,Male,84,94,Mechanical,0,7,0,0
+21,Male,82,93,Electronics And Communication,0,7,0,1
+20,Male,94,68,Computer Science,1,8,0,1
+21,Female,73,73,Information Technology,1,8,0,1
+20,Female,74,81,Information Technology,1,8,0,1
+20,Male,70,68,Mechanical,0,7,0,0
+20,Male,95,73,Information Technology,2,6,0,1
+21,Male,96,84,Computer Science,1,7,0,0
+21,Female,96,80,Mechanical,1,6,0,0
+21,Male,78,67,Computer Science,2,6,0,1
+20,Male,77,80,Information Technology,1,7,0,0
+20,Male,93,71,Civil,0,6,0,0
+21,Male,74,75,Mechanical,0,7,1,0
+21,Male,89,93,Computer Science,2,7,1,0
+20,Male,77,81,Information Technology,0,7,1,0
+20,Male,95,76,Civil,0,7,0,0
+21,Male,74,82,Electronics And Communication,0,7,0,1
+21,Female,96,87,Information Technology,1,8,0,1
+21,Male,93,78,Mechanical,0,6,0,0
+21,Female,78,73,Computer Science,1,8,0,1
+20,Female,95,83,Information Technology,0,7,0,0
+21,Male,74,76,Mechanical,1,7,0,0
+21,Male,79,87,Civil,0,8,0,1
+21,Male,75,81,Information Technology,0,7,0,0
+20,Male,71,90,Information Technology,1,7,1,0
+21,Male,93,90,Mechanical,0,6,1,0
+21,Male,71,89,Electrical,2,6,1,0
+21,Male,73,79,Electrical,0,7,0,0
+20,Male,90,90,Computer Science,1,7,0,0
+20,Female,94,69,Computer Science,0,7,0,0
+20,Male,94,69,Computer Science,1,8,0,1
+20,Male,72,71,Civil,0,7,1,0
+20,Male,88,77,Civil,2,9,0,1
+21,Female,76,93,Computer Science,1,9,0,1
+20,Male,73,81,Electrical,0,9,0,1
+20,Male,77,89,Civil,2,9,0,1
+20,Male,82,68,Information Technology,0,8,0,1
+21,Male,95,89,Computer Science,1,8,0,1
+21,Male,93,85,Information Technology,1,8,0,1
+20,Male,78,81,Electronics And Communication,0,7,0,1
+20,Male,78,86,Computer Science,1,9,0,1
+20,Male,70,84,Electrical,3,7,0,1
+21,Male,71,89,Civil,1,8,0,1
+21,Male,73,79,Mechanical,0,7,1,0
+21,Male,87,93,Electronics And Communication,2,7,1,1
+21,Female,73,77,Computer Science,1,7,0,0
+21,Male,94,71,Computer Science,2,8,0,1
+21,Male,75,84,Computer Science,0,8,0,1
+21,Male,96,94,Civil,0,7,0,0
+21,Male,87,76,Computer Science,0,8,0,1
+21,Male,74,75,Information Technology,1,9,0,1
+21,Male,89,91,Information Technology,0,7,0,0
+20,Female,90,74,Computer Science,0,7,0,0
+21,Male,70,90,Information Technology,1,7,0,0
+21,Male,79,77,Computer Science,1,8,0,1
+20,Male,72,94,Electrical,0,9,1,1
+21,Male,93,72,Electrical,1,9,0,1
+20,Male,77,68,Computer Science,1,9,0,1
+21,Male,81,73,Mechanical,1,9,0,1
+21,Female,96,66,Computer Science,1,8,0,1
+21,Male,78,87,Electronics And Communication,1,9,1,1
+20,Female,77,85,Mechanical,1,8,0,1
+21,Male,78,71,Computer Science,1,8,0,1
+20,Female,95,93,Information Technology,0,8,0,1
+20,Male,74,73,Civil,1,9,0,1
+21,Female,80,76,Electronics And Communication,0,9,0,1
+21,Female,94,89,Information Technology,0,8,0,1
+21,Male,94,72,Mechanical,0,7,0,0
+21,Male,79,78,Electrical,0,9,0,1
+20,Male,81,94,Electrical,1,8,0,1
+21,Female,80,87,Computer Science,2,9,1,1
+20,Female,93,68,Information Technology,0,7,0,0
+21,Male,71,76,Mechanical,1,9,1,1
+21,Male,71,73,Civil,0,9,0,1
+20,Male,77,69,Electronics And Communication,1,7,1,1
+20,Male,85,80,Computer Science,1,7,0,0
+21,Male,84,70,Information Technology,0,7,0,0
+20,Male,95,76,Mechanical,0,9,0,1
+21,Male,90,69,Electronics And Communication,0,9,1,1
+21,Male,95,94,Electronics And Communication,0,8,0,1
+20,Male,89,78,Civil,0,9,1,1
+20,Male,83,69,Electrical,1,8,1,1
+20,Male,73,67,Information Technology,0,8,0,1
+21,Female,80,67,Electronics And Communication,3,9,0,1
+20,Male,84,90,Information Technology,1,7,0,0
+20,Male,79,77,Computer Science,1,7,0,0
+21,Male,79,93,Electrical,1,9,0,1
+20,Male,89,79,Electronics And Communication,3,8,1,1
+20,Female,76,75,Electronics And Communication,0,8,0,1
+20,Male,74,78,Electrical,0,9,1,1
+21,Male,81,67,Civil,3,9,0,1
+20,Male,74,72,Computer Science,1,8,0,1
+20,Male,95,84,Mechanical,0,9,1,1
+20,Male,71,86,Computer Science,1,8,0,1
+20,Male,84,75,Electronics And Communication,1,9,1,1
+21,Male,77,70,Information Technology,2,9,0,1
+20,Male,95,84,Electrical,1,7,1,1
+21,Male,75,69,Electrical,0,9,0,1
+21,Male,92,90,Mechanical,0,8,0,1
+20,Male,81,69,Civil,0,9,0,1
+21,Female,74,71,Computer Science,0,7,0,0
+20,Female,71,70,Electrical,1,7,0,1
+20,Male,72,79,Information Technology,1,8,0,1
+21,Female,83,81,Electronics And Communication,0,7,0,1
+21,Male,72,77,Electrical,0,8,0,1
+21,Male,93,89,Information Technology,0,8,0,1
+20,Male,80,92,Electrical,0,9,1,1
+21,Male,76,74,Electronics And Communication,1,7,0,1
+20,Male,86,91,Electronics And Communication,2,7,0,1
+21,Male,93,85,Computer Science,2,8,0,1
+20,Male,87,68,Civil,0,9,0,1
+20,Male,88,70,Computer Science,1,8,0,1
+21,Male,84,78,Electrical,0,9,0,1
+21,Male,90,74,Electronics And Communication,0,7,0,1
+20,Male,84,67,Information Technology,0,8,0,1
+21,Female,72,76,Computer Science,0,8,0,1
+20,Male,85,84,Electronics And Communication,2,7,0,1
+21,Male,84,93,Information Technology,1,8,0,1
+21,Male,95,91,Computer Science,1,7,0,0
+20,Male,78,72,Civil,1,7,0,0
+21,Female,73,88,Electronics And Communication,2,8,0,1
+21,Male,89,70,Information Technology,1,8,1,1
+20,Male,87,75,Computer Science,2,7,0,1
+20,Male,93,85,Information Technology,0,9,0,1
+20,Male,88,84,Information Technology,2,8,0,1
+20,Male,78,77,Electronics And Communication,1,7,0,0
+20,Male,70,81,Information Technology,1,9,0,1
+20,Male,78,88,Electronics And Communication,1,7,0,1
+21,Female,85,84,Computer Science,1,9,0,1
+20,Male,96,82,Electronics And Communication,0,9,0,1
+20,Male,73,73,Computer Science,0,8,1,1
+21,Male,86,80,Electrical,0,8,0,1
+20,Male,90,86,Electrical,1,7,0,1
+20,Male,89,74,Computer Science,0,9,1,1
+21,Male,70,87,Mechanical,1,7,0,0
+20,Male,76,89,Mechanical,0,7,1,0
+21,Male,73,90,Information Technology,1,8,0,1
+20,Male,70,77,Electrical,0,8,0,1
+21,Male,96,72,Mechanical,1,8,0,1
+20,Male,80,92,Information Technology,0,7,0,0
+20,Male,84,85,Information Technology,0,9,0,1
+20,Female,92,93,Computer Science,3,8,0,1
+21,Male,70,89,Mechanical,0,9,0,1
+21,Male,77,86,Mechanical,0,7,1,0
+20,Female,88,70,Electrical,1,7,1,1
+21,Male,90,72,Computer Science,0,8,0,1
+21,Female,94,71,Information Technology,1,9,0,1
+21,Female,88,76,Information Technology,0,7,0,0
+20,Male,70,68,Civil,0,9,1,1
+21,Male,81,82,Electronics And Communication,1,9,0,1
+20,Male,91,74,Electronics And Communication,1,8,1,1
+20,Male,82,68,Computer Science,1,7,0,0
+20,Male,70,67,Electronics And Communication,1,8,1,1
+21,Male,90,74,Information Technology,0,8,0,1
+21,Male,96,92,Computer Science,0,7,0,0
+20,Male,93,70,Mechanical,0,7,0,0
+21,Male,78,66,Computer Science,2,7,1,0
+20,Male,88,79,Information Technology,0,9,0,1
+20,Female,82,67,Computer Science,0,8,0,1
+20,Male,87,76,Electronics And Communication,0,7,0,1
+20,Male,73,93,Civil,1,9,0,1
+20,Male,84,81,Information Technology,1,7,1,0
+21,Male,95,67,Computer Science,1,9,0,1
+20,Male,81,80,Information Technology,0,7,0,0
+20,Male,78,90,Information Technology,1,7,0,0
+20,Female,81,66,Computer Science,2,8,0,1
+20,Male,94,70,Electrical,1,7,1,1
+20,Male,82,69,Electronics And Communication,0,8,0,1
+20,Female,72,71,Information Technology,2,8,0,1
+20,Male,88,79,Computer Science,0,8,0,1
+20,Male,72,86,Mechanical,0,8,0,1
+20,Male,78,89,Mechanical,0,8,0,1
+20,Male,96,75,Computer Science,0,6,0,0
+21,Male,87,82,Computer Science,1,6,0,0
+20,Male,82,90,Computer Science,1,6,0,0
+21,Male,94,84,Mechanical,0,6,0,0
+20,Male,71,72,Computer Science,1,6,0,0
+20,Male,78,73,Information Technology,0,8,1,1
+21,Male,71,90,Electronics And Communication,1,6,1,0
+20,Male,80,83,Electronics And Communication,0,7,0,0
+21,Female,77,75,Information Technology,2,8,0,1
+21,Male,88,73,Electrical,0,6,1,0
+21,Female,72,79,Computer Science,2,8,0,1
+20,Female,75,85,Information Technology,1,7,1,0
+20,Male,79,89,Electronics And Communication,1,7,1,0
+20,Female,75,66,Electronics And Communication,0,8,0,1
+20,Male,75,74,Information Technology,1,7,0,0
+21,Male,74,71,Civil,0,8,0,1
+21,Male,95,88,Electrical,0,7,0,0
+20,Male,93,74,Electrical,1,7,1,1
+20,Male,84,80,Computer Science,1,7,0,0
+20,Male,87,91,Electrical,0,8,0,1
+21,Female,87,74,Computer Science,1,8,0,1
+21,Male,71,76,Electrical,0,8,0,1
+21,Male,70,94,Mechanical,1,7,0,0
+21,Male,86,90,Electrical,0,8,0,1
+20,Female,91,75,Electrical,0,8,0,1
+20,Male,86,69,Information Technology,0,6,0,0
+20,Male,88,82,Information Technology,0,6,0,0
+20,Male,93,79,Electronics And Communication,2,8,0,1
+20,Male,77,80,Mechanical,0,6,1,0
+21,Male,92,91,Information Technology,0,8,0,1
+21,Male,79,70,Electrical,1,8,0,1
+20,Male,75,79,Computer Science,0,6,0,0
+20,Female,85,69,Information Technology,1,7,0,0
+21,Male,94,76,Electronics And Communication,0,8,0,1
+21,Female,78,68,Electronics And Communication,1,8,0,1
+20,Female,82,69,Computer Science,0,6,0,0
+21,Male,75,94,Computer Science,0,7,0,0
+20,Male,92,90,Computer Science,0,7,1,0
+20,Male,83,77,Electronics And Communication,0,6,0,0
+20,Female,78,73,Electrical,0,6,0,0
+20,Male,70,67,Computer Science,0,7,0,0
+20,Male,94,77,Civil,1,6,0,0
+21,Female,77,67,Computer Science,1,8,0,1
+21,Male,71,82,Electrical,1,6,0,0
+20,Male,72,71,Computer Science,1,6,0,0
+21,Male,91,75,Electrical,1,8,1,1
+20,Male,71,93,Electronics And Communication,0,6,0,0
+20,Male,74,90,Mechanical,1,6,1,0
+21,Female,81,91,Computer Science,2,6,0,1
+20,Male,87,78,Electronics And Communication,1,6,1,0
+20,Female,72,84,Electronics And Communication,0,7,0,1
+20,Male,74,86,Information Technology,1,8,1,1
+20,Male,91,70,Mechanical,0,8,0,1
+20,Female,75,70,Information Technology,0,8,0,1
+20,Male,86,93,Civil,1,8,0,1
+20,Male,76,76,Electrical,0,8,0,1
+20,Male,95,80,Civil,1,8,0,1
+23,Male,86,69,Electronics And Communication,0,8,0,1
+22,Male,73,72,Mechanical,0,7,0,0
+22,Male,95,79,Electronics And Communication,0,6,1,0
+22,Female,80,80,Information Technology,1,6,0,0
+21,Male,87,89,Computer Science,1,7,0,0
+21,Male,88,77,Computer Science,1,8,0,1
+23,Male,94,69,Computer Science,0,6,0,0
+23,Male,71,67,Mechanical,1,6,0,0
+23,Male,75,68,Computer Science,1,8,0,1
+21,Male,84,91,Computer Science,1,7,0,0
+23,Male,83,77,Mechanical,0,7,0,0
+21,Male,82,94,Computer Science,2,6,0,1
+23,Male,95,84,Electrical,0,7,1,0
+23,Male,88,85,Computer Science,1,7,0,0
+23,Male,84,76,Electrical,0,6,0,0
+21,Male,74,86,Information Technology,1,8,1,1
+23,Male,89,91,Civil,0,7,0,0
+23,Male,82,85,Information Technology,1,6,1,0
+21,Male,70,69,Computer Science,1,7,0,0
+22,Male,82,75,Mechanical,0,6,0,0
+21,Male,85,83,Computer Science,1,7,0,0
+21,Male,90,76,Mechanical,0,7,1,0
+21,Male,84,83,Civil,1,8,0,1
+22,Male,84,80,Civil,1,7,1,0
+21,Male,74,75,Civil,0,6,0,0
+22,Female,91,86,Information Technology,0,7,1,0
+21,Male,75,72,Mechanical,1,8,0,1
+23,Male,86,82,Mechanical,0,6,0,0
+23,Male,88,86,Electronics And Communication,1,6,1,0
+22,Male,96,87,Electronics And Communication,2,8,0,1
+22,Male,92,94,Electronics And Communication,3,8,1,1
+23,Male,91,92,Electronics And Communication,1,7,0,1
+22,Male,80,73,Information Technology,1,8,0,1
+23,Female,94,84,Computer Science,1,6,0,0
+21,Male,87,81,Information Technology,0,6,1,0
+23,Male,70,94,Electronics And Communication,0,6,1,0
+23,Male,78,92,Information Technology,1,6,0,0
+23,Male,70,68,Information Technology,0,7,1,0
+23,Male,84,77,Electronics And Communication,1,7,1,1
+23,Male,75,79,Mechanical,0,6,0,0
+21,Male,73,78,Information Technology,0,6,1,0
+21,Male,91,89,Computer Science,1,7,0,0
+22,Male,80,86,Information Technology,0,7,0,0
+23,Male,77,81,Information Technology,0,8,0,1
+22,Male,77,88,Mechanical,1,6,1,0
+21,Male,94,85,Mechanical,0,7,0,0
+22,Male,88,74,Mechanical,0,7,0,0
+21,Male,93,78,Mechanical,0,8,0,1
+21,Male,82,93,Computer Science,1,7,0,0
+23,Male,87,67,Electronics And Communication,1,8,1,1
+21,Male,88,79,Information Technology,0,7,1,0
+22,Male,76,78,Mechanical,0,7,0,0
+22,Male,93,84,Mechanical,1,8,1,1
+21,Male,91,69,Electrical,0,7,0,0
+23,Female,80,78,Mechanical,1,7,0,0
+21,Female,70,85,Information Technology,0,7,0,0
+21,Male,77,83,Electrical,0,7,0,0
+23,Male,86,71,Civil,1,8,0,1
+23,Male,83,79,Computer Science,1,8,0,1
+22,Male,88,70,Information Technology,1,6,1,0
+22,Male,73,88,Computer Science,1,7,0,0
+21,Female,75,87,Information Technology,1,8,0,1
+23,Male,75,87,Information Technology,3,8,0,1
+22,Male,78,92,Computer Science,0,8,0,1
+22,Male,78,85,Mechanical,0,6,0,0
+22,Male,86,78,Information Technology,0,6,0,0
+22,Male,76,79,Civil,0,8,0,1
+22,Male,76,92,Information Technology,1,8,0,1
+23,Male,94,92,Electronics And Communication,0,6,0,0
+23,Male,70,89,Civil,2,8,0,1
+21,Male,92,75,Electronics And Communication,0,8,0,1
+23,Male,74,75,Information Technology,1,7,0,0
+22,Male,81,77,Electronics And Communication,2,6,0,1
+23,Female,81,75,Electronics And Communication,0,7,0,1
+21,Male,71,76,Electrical,0,7,0,0
+21,Male,89,84,Electronics And Communication,0,8,0,1
+23,Male,85,79,Mechanical,0,8,1,1
+23,Female,88,74,Computer Science,1,8,0,1
+21,Male,90,83,Information Technology,1,7,0,0
+22,Male,86,87,Information Technology,2,6,0,1
+23,Male,78,93,Electronics And Communication,2,8,0,1
+23,Male,85,78,Computer Science,0,6,0,1
+23,Male,72,94,Computer Science,2,6,0,1
+21,Male,78,76,Computer Science,1,7,0,0
+21,Male,96,78,Computer Science,1,8,0,1
+21,Male,88,80,Electronics And Communication,2,7,0,1
+21,Male,94,71,Electronics And Communication,0,8,1,1
+21,Female,87,67,Information Technology,0,6,0,0
+23,Male,78,70,Information Technology,0,7,0,0
+22,Male,80,80,Computer Science,1,8,0,1
+21,Male,76,85,Information Technology,0,8,0,1
+21,Male,90,82,Mechanical,0,7,0,0
+23,Male,77,92,Information Technology,0,6,1,0
+23,Male,82,69,Civil,0,8,1,1
+22,Male,88,78,Mechanical,1,8,0,1
+23,Male,92,82,Information Technology,1,6,0,0
+23,Male,73,91,Information Technology,1,7,0,0
+22,Male,76,93,Mechanical,0,8,0,1
+21,Male,80,84,Civil,0,6,0,0
+21,Male,89,78,Computer Science,1,6,0,0
+22,Male,77,85,Computer Science,0,7,1,0
+21,Male,83,73,Electronics And Communication,0,7,0,1
+23,Female,74,71,Computer Science,0,7,1,0
+23,Male,71,83,Electronics And Communication,0,8,0,1
+22,Male,82,83,Electrical,2,8,1,1
+23,Male,87,67,Information Technology,1,8,0,1
+21,Male,91,72,Electronics And Communication,0,8,0,1
+22,Male,96,86,Electronics And Communication,2,7,0,0
+21,Male,85,89,Electronics And Communication,0,7,0,1
+23,Male,94,83,Information Technology,1,8,0,1
+21,Male,94,74,Information Technology,1,7,0,0
+23,Male,85,88,Information Technology,1,6,0,0
+21,Male,73,77,Mechanical,3,6,0,1
+23,Male,85,72,Information Technology,1,8,0,1
+22,Male,72,84,Electrical,0,6,0,0
+23,Male,73,78,Mechanical,0,7,0,0
+21,Male,72,80,Information Technology,0,8,0,1
+21,Male,84,74,Electrical,0,8,0,1
+21,Female,84,68,Computer Science,1,8,0,1
+21,Male,82,90,Civil,0,8,0,1
+22,Male,72,75,Electronics And Communication,0,8,0,1
+23,Male,85,75,Information Technology,0,6,0,0
+23,Male,89,72,Computer Science,0,8,0,1
+22,Male,94,68,Electrical,1,6,1,0
+21,Male,75,70,Mechanical,1,7,0,0
+23,Male,93,81,Computer Science,0,7,0,0
+21,Male,75,90,Information Technology,0,8,0,1
+22,Female,87,69,Computer Science,1,8,0,1
+22,Female,91,85,Computer Science,0,6,0,0
+23,Female,75,85,Computer Science,0,6,0,0
+21,Male,74,79,Computer Science,2,8,0,1
+21,Male,90,90,Mechanical,0,6,0,0
+21,Male,84,67,Computer Science,1,7,0,0
+23,Male,85,94,Computer Science,1,8,0,1
+23,Male,82,73,Electrical,1,8,0,1
+21,Male,84,73,Electronics And Communication,0,8,0,1
+23,Male,79,91,Information Technology,0,6,0,0
+23,Male,80,76,Mechanical,0,6,0,0
+21,Male,93,79,Computer Science,0,7,1,0
+21,Male,84,67,Mechanical,0,8,0,1
+22,Male,70,82,Electronics And Communication,0,7,0,0
+21,Male,74,85,Electrical,0,7,0,0
+23,Male,85,67,Mechanical,0,6,0,0
+23,Male,72,66,Electronics And Communication,0,8,0,1
+23,Male,74,91,Information Technology,1,7,1,0
+21,Male,73,82,Computer Science,1,7,0,0
+23,Male,74,89,Information Technology,1,7,1,0
+22,Male,78,86,Computer Science,2,8,1,1
+21,Male,70,68,Electrical,0,7,0,0
+22,Male,96,93,Civil,0,8,0,1
+23,Female,84,68,Computer Science,1,8,0,1
+21,Male,94,68,Computer Science,3,8,0,1
+23,Male,82,89,Mechanical,0,8,0,1
+22,Male,76,70,Electronics And Communication,0,7,0,0
+23,Female,72,73,Computer Science,1,8,1,1
+22,Male,76,69,Information Technology,0,7,0,0
+22,Male,90,75,Computer Science,0,8,0,1
+22,Male,70,84,Electrical,1,6,1,0
+23,Male,87,77,Computer Science,0,6,1,0
+23,Male,70,89,Information Technology,0,7,0,0
+23,Male,70,68,Mechanical,1,7,0,0
+23,Male,78,90,Information Technology,0,7,0,0
+23,Male,72,93,Mechanical,1,7,0,0
+22,Male,71,80,Information Technology,1,7,0,0
+22,Male,72,92,Computer Science,1,7,0,0
+23,Male,87,85,Civil,0,8,0,1
