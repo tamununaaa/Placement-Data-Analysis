@@ -18,12 +18,12 @@ def predict():
     Gender = request.form.get('Gender')
     HSC_P = request.form.get('HSC_P')
     SSC_P = request.form.get('SSC_P')
-    #Stream = request.form.get('Stream')
+    Stream = request.form.get('Stream')
     Internships = request.form.get('Internships')
     CGPA = request.form.get('CGPA')
     HistoryOfBacklogs = request.form.get('HistoryOfBacklogs')
 
-    input_query = np.array([[Age, HSC_P, SSC_P, Gender, Internships, CGPA, HistoryOfBacklogs]])
+    input_query = np.array([[Age, HSC_P, SSC_P, Gender, Stream, Internships, CGPA, HistoryOfBacklogs]])
 
     result = model.predict(input_query)[0]
 
