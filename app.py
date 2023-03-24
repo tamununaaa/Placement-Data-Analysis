@@ -8,11 +8,13 @@ model = pickle.load(open('model.pkl', 'rb'))
 app = Flask(__name__)
 
 
+
 @app.route('/')
 def index():
     return "Hellooo!!"
 
 @app.route('/predict', methods=['POST'])
+
 def predict():
     Age = request.form.get('Age')
     Gender = request.form.get('Gender')
@@ -27,7 +29,7 @@ def predict():
 
     result = model.predict(input_query)[0]
 
-    return jsonify({'Placed': str(int(result*100))})
+    return jsonify({'Placed': int(result*100)})
 
 if __name__ == '__main__':
     app.run(debug=True)
